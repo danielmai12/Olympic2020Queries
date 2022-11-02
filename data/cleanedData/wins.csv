@@ -1,0 +1,2402 @@
+medal_code,athlete_name,country_code,discipline_code,event
+1,KIM Je Deok,KOR,ARC,Mixed Team
+1,AN San,KOR,ARC,Mixed Team
+2,SCHLOESSER Gabriela,NED,ARC,Mixed Team
+2,WIJLER Steve,NED,ARC,Mixed Team
+3,ALVAREZ Luis,MEX,ARC,Mixed Team
+3,VALENCIA Alejandra,MEX,ARC,Mixed Team
+1,CARAPAZ Richard,ECU,CRD,Men's Road Race
+2,van AERT Wout,BEL,CRD,Men's Road Race
+3,POGACAR Tadej,SLO,CRD,Men's Road Race
+1,SZILAGYI Aron,HUN,FEN,Men's Sabre Individual
+2,SAMELE Luigi,ITA,FEN,Men's Sabre Individual
+3,KIM Junghwan,KOR,FEN,Men's Sabre Individual
+1,SUN Yiwen,CHN,FEN,Women's &Eacute;p&eacute;e Individual
+2,POPESCU Ana Maria,ROU,FEN,Women's &Eacute;p&eacute;e Individual
+3,LEHIS Katrina,EST,FEN,Women's &Eacute;p&eacute;e Individual
+1,TAKATO Naohisa,JPN,JUD,Men -60 kg
+2,YANG Yung Wei,TPE,JUD,Men -60 kg
+3,MKHEIDZE Luka,FRA,JUD,Men -60 kg
+3,SMETOV Yeldos,KAZ,JUD,Men -60 kg
+1,KRASNIQI Distria,KOS,JUD,Women -48 kg
+2,TONAKI Funa,JPN,JUD,Women -48 kg
+3,BILODID Daria,UKR,JUD,Women -48 kg
+3,MUNKHBAT Urantsetseg,MGL,JUD,Women -48 kg
+1,FOROUGHI Javad,IRI,SHO,10m Air Pistol Men
+2,MIKEC Damir,SRB,SHO,10m Air Pistol Men
+3,PANG Wei,CHN,SHO,10m Air Pistol Men
+1,YANG Qian,CHN,SHO,10m Air Rifle Women
+2,GALASHINA Anastasiia,ROC,SHO,10m Air Rifle Women
+3,CHRISTEN Nina,SUI,SHO,10m Air Rifle Women
+1,DELL'AQUILA Vito,ITA,TKW,Men -58kg
+2,JENDOUBI Mohamed Khalil,TUN,TKW,Men -58kg
+3,ARTAMONOV Mikhail,ROC,TKW,Men -58kg
+3,JANG Jun,KOR,TKW,Men -58kg
+1,WONGPATTANAKIT Panipak,THA,TKW,Women -49kg
+2,CEREZO IGLESIAS Adriana,ESP,TKW,Women -49kg
+3,BOGDANOVIC Tijana,SRB,TKW,Women -49kg
+3,SEMBERG Abishag,ISR,TKW,Women -49kg
+1,HOU Zhihui,CHN,WLF,Women's 49kg
+2,MIRABAI Chanu Saikhom,IND,WLF,Women's 49kg
+3,AISAH Windy Cantika,INA,WLF,Women's 49kg
+1,KANG Chaeyoung,KOR,ARC,Women's Team
+1,AN San,KOR,ARC,Women's Team
+1,JANG Minhee,KOR,ARC,Women's Team
+2,OSIPOVA Elena,ROC,ARC,Women's Team
+2,PEROVA Ksenia,ROC,ARC,Women's Team
+2,GOMBOEVA Svetlana,ROC,ARC,Women's Team
+3,SCHWARZ Charline,GER,ARC,Women's Team
+3,UNRUH Lisa,GER,ARC,Women's Team
+3,KROPPEN Michelle,GER,ARC,Women's Team
+1,KIESENHOFER Anna,AUT,CRD,Women's Road Race
+2,van VLEUTEN Annemiek,NED,CRD,Women's Road Race
+3,LONGO BORGHINI Elisa,ITA,CRD,Women's Road Race
+1,WANG Han,CHN,DIV,Women's Synchronised 3m Springboard
+1,SHI Tingmao,CHN,DIV,Women's Synchronised 3m Springboard
+2,ABEL Jennifer,CAN,DIV,Women's Synchronised 3m Springboard
+2,CITRINI BEAULIEU Melissa,CAN,DIV,Women's Synchronised 3m Springboard
+3,HENTSCHEL Lena,GER,DIV,Women's Synchronised 3m Springboard
+3,PUNZEL Tina,GER,DIV,Women's Synchronised 3m Springboard
+1,CANNONE Romain,FRA,FEN,Men's &Eacute;p&eacute;e Individual
+2,SIKLOSI Gergely,HUN,FEN,Men's &Eacute;p&eacute;e Individual
+3,REIZLIN Igor,UKR,FEN,Men's &Eacute;p&eacute;e Individual
+1,KIEFER Lee,USA,FEN,Women's Foil Individual
+2,DERIGLAZOVA Inna,ROC,FEN,Women's Foil Individual
+3,KOROBEYNIKOVA Larisa,ROC,FEN,Women's Foil Individual
+1,ABE Hifumi,JPN,JUD,Men -66 kg
+2,MARGVELASHVILI Vazha,GEO,JUD,Men -66 kg
+3,AN Baul,KOR,JUD,Men -66 kg
+3,CARGNIN Daniel,BRA,JUD,Men -66 kg
+1,ABE Uta,JPN,JUD,Women -52 kg
+2,BUCHARD Amandine,FRA,JUD,Women -52 kg
+3,GILES Chelsie,GBR,JUD,Women -52 kg
+3,GIUFFRIDA Odette,ITA,JUD,Women -52 kg
+1,BATSARASHKINA Vitalina,ROC,SHO,10m Air Pistol Women
+2,KOSTADINOVA Antoaneta,BUL,SHO,10m Air Pistol Women
+3,JIANG Ranxin,CHN,SHO,10m Air Pistol Women
+1,SHANER William,USA,SHO,10m Air Rifle Men
+2,SHENG Lihao,CHN,SHO,10m Air Rifle Men
+3,YANG Haoran,CHN,SHO,10m Air Rifle Men
+1,HORIGOME Yuto,JPN,SKB,Men's Street
+2,HOEFLER Kelvin,BRA,SKB,Men's Street
+3,EATON Jagger,USA,SKB,Men's Street
+1,HAFNAOUI Ahmed,TUN,SWM,Men's 400m Freestyle
+2,McLOUGHLIN Jack,AUS,SWM,Men's 400m Freestyle
+3,SMITH Kieran,USA,SWM,Men's 400m Freestyle
+1,KALISZ Chase,USA,SWM,Men's 400m Individual Medley
+2,LITHERLAND Jay,USA,SWM,Men's 400m Individual Medley
+3,SMITH Brendon,AUS,SWM,Men's 400m Individual Medley
+1,CAMPBELL Cate,AUS,SWM,Women's 4 x 100m Freestyle Relay
+1,CAMPBELL Bronte,AUS,SWM,Women's 4 x 100m Freestyle Relay
+1,McKEON Emma,AUS,SWM,Women's 4 x 100m Freestyle Relay
+1,WILSON Madison,AUS,SWM,Women's 4 x 100m Freestyle Relay
+1,O'CALLAGHAN Mollie,AUS,SWM,Women's 4 x 100m Freestyle Relay
+1,HARRIS Meg,AUS,SWM,Women's 4 x 100m Freestyle Relay
+2,OLEKSIAK Penny,CAN,SWM,Women's 4 x 100m Freestyle Relay
+2,SMITH Rebecca,CAN,SWM,Women's 4 x 100m Freestyle Relay
+2,SANCHEZ Kayla,CAN,SWM,Women's 4 x 100m Freestyle Relay
+2,MACNEIL Margaret,CAN,SWM,Women's 4 x 100m Freestyle Relay
+2,RUCK Taylor,CAN,SWM,Women's 4 x 100m Freestyle Relay
+3,BROWN Erika,USA,SWM,Women's 4 x 100m Freestyle Relay
+3,WEITZEIL Abbey,USA,SWM,Women's 4 x 100m Freestyle Relay
+3,de LOOF Catie,USA,SWM,Women's 4 x 100m Freestyle Relay
+3,SCHMITT Allison,USA,SWM,Women's 4 x 100m Freestyle Relay
+3,HINDS Natalie,USA,SWM,Women's 4 x 100m Freestyle Relay
+3,SMOLIGA Olivia,USA,SWM,Women's 4 x 100m Freestyle Relay
+3,MANUEL Simone,USA,SWM,Women's 4 x 100m Freestyle Relay
+1,OHASHI Yui,JPN,SWM,Women's 400m Individual Medley
+2,WEYANT Emma,USA,SWM,Women's 400m Individual Medley
+3,FLICKINGER Hali,USA,SWM,Women's 400m Individual Medley
+1,RASHITOV Ulugbek,UZB,TKW,Men -68kg
+2,SINDEN Bradly,GBR,TKW,Men -68kg
+3,RECBER Hakan,TUR,TKW,Men -68kg
+3,ZHAO Shuai,CHN,TKW,Men -68kg
+1,ZOLOTIC Anastasija,USA,TKW,Women -57kg
+2,MININA Tatiana,ROC,TKW,Women -57kg
+3,LO Chia-Ling,TPE,TKW,Women -57kg
+3,ILGUN Hatice Kubra,TUR,TKW,Women -57kg
+1,LI Fabin,CHN,WLF,Men's 61kg
+2,IRAWAN Eko Yuli,INA,WLF,Men's 61kg
+3,SON Igor,KAZ,WLF,Men's 61kg
+1,CHEN Lijun,CHN,WLF,Men's 67kg
+2,MOSQUERA LOZANO Luis Javier,COL,WLF,Men's 67kg
+3,ZANNI Mirko,ITA,WLF,Men's 67kg
+1,KIM Je Deok,KOR,ARC,Men's Team
+1,OH Jinhyek,KOR,ARC,Men's Team
+1,KIM Woojin,KOR,ARC,Men's Team
+2,TANG Chih-Chun,TPE,ARC,Men's Team
+2,WEI Chun-Heng,TPE,ARC,Men's Team
+2,DENG Yu-Cheng,TPE,ARC,Men's Team
+3,FURUKAWA Takaharu,JPN,ARC,Men's Team
+3,KAWATA Yuki,JPN,ARC,Men's Team
+3,MUTO Hiroki,JPN,ARC,Men's Team
+1,ABLIAZIN Denis,ROC,GAR,Men's Team
+1,BELYAVSKIY David,ROC,GAR,Men's Team
+1,DALALOYAN Artur,ROC,GAR,Men's Team
+1,NAGORNYY Nikita,ROC,GAR,Men's Team
+2,KAYA Kazuma,JPN,GAR,Men's Team
+2,TANIGAWA Wataru,JPN,GAR,Men's Team
+2,KITAZONO Takeru,JPN,GAR,Men's Team
+2,HASHIMOTO Daiki,JPN,GAR,Men's Team
+3,LIN Chaopan,CHN,GAR,Men's Team
+3,SUN Wei,CHN,GAR,Men's Team
+3,XIAO Ruoteng,CHN,GAR,Men's Team
+3,ZOU Jingyuan,CHN,GAR,Men's Team
+1,SAVSEK Benjamin,SLO,CSL,Men's Canoe
+2,ROHAN Lukas,CZE,CSL,Men's Canoe
+3,TASIADIS Sideris,GER,CSL,Men's Canoe
+1,PIDCOCK Thomas,GBR,MTB,Men's Cross-country
+2,FLUECKIGER Mathias,SUI,MTB,Men's Cross-country
+3,VALERO SERRANO David,ESP,MTB,Men's Cross-country
+1,DALEY Thomas,GBR,DIV,Men's Synchronised 10m Platform
+1,LEE Matty,GBR,DIV,Men's Synchronised 10m Platform
+2,CAO Yuan,CHN,DIV,Men's Synchronised 10m Platform
+2,CHEN Aisen,CHN,DIV,Men's Synchronised 10m Platform
+3,BONDAR Aleksandr,ROC,DIV,Men's Synchronised 10m Platform
+3,MINIBAEV Viktor,ROC,DIV,Men's Synchronised 10m Platform
+1,CHEUNG Ka Long,HKG,FEN,Men's Foil Individual
+2,GAROZZO Daniele,ITA,FEN,Men's Foil Individual
+3,CHOUPENITCH Alexander,CZE,FEN,Men's Foil Individual
+1,POZDNIAKOVA Sofia,ROC,FEN,Women's Sabre Individual
+2,VELIKAYA Sofya,ROC,FEN,Women's Sabre Individual
+3,BRUNET Manon,FRA,FEN,Women's Sabre Individual
+1,ONO Shohei,JPN,JUD,Men -73 kg
+2,SHAVDATUASHVILI Lasha,GEO,JUD,Men -73 kg
+3,AN Changrim,KOR,JUD,Men -73 kg
+3,TSEND-OCHIR Tsogtbaatar,MGL,JUD,Men -73 kg
+1,GJAKOVA Nora,KOS,JUD,Women -57 kg
+2,CYSIQUE Sarah Leonie,FRA,JUD,Women -57 kg
+3,KLIMKAIT Jessica,CAN,JUD,Women -57 kg
+3,YOSHIDA Tsukasa,JPN,JUD,Women -57 kg
+1,HANCOCK Vincent,USA,SHO,Skeet Men
+2,HANSEN Jesper,DEN,SHO,Skeet Men
+3,ALRASHIDI Abdullah,KUW,SHO,Skeet Men
+1,ENGLISH Amber,USA,SHO,Skeet Women
+2,BACOSI Diana,ITA,SHO,Skeet Women
+3,WEI Meng,CHN,SHO,Skeet Women
+1,NISHIYA Momiji,JPN,SKB,Women's Street
+2,LEAL Rayssa,BRA,SKB,Women's Street
+3,NAKAYAMA Funa,JPN,SKB,Women's Street
+1,PEATY Adam,GBR,SWM,Men's 100m Breaststroke
+2,KAMMINGA Arno,NED,SWM,Men's 100m Breaststroke
+3,MARTINENGHI Nicolo,ITA,SWM,Men's 100m Breaststroke
+1,CURRY Brooks,USA,SWM,Men's 4 x 100m Freestyle Relay
+1,DRESSEL Caeleb,USA,SWM,Men's 4 x 100m Freestyle Relay
+1,BECKER Bowen,USA,SWM,Men's 4 x 100m Freestyle Relay
+1,PIERONI Blake,USA,SWM,Men's 4 x 100m Freestyle Relay
+1,APPLE Zach,USA,SWM,Men's 4 x 100m Freestyle Relay
+2,CECCON Thomas,ITA,SWM,Men's 4 x 100m Freestyle Relay
+2,FRIGO Manuel,ITA,SWM,Men's 4 x 100m Freestyle Relay
+2,ZAZZERI Lorenzo,ITA,SWM,Men's 4 x 100m Freestyle Relay
+2,CONDORELLI Santo,ITA,SWM,Men's 4 x 100m Freestyle Relay
+2,MIRESSI Alessandro,ITA,SWM,Men's 4 x 100m Freestyle Relay
+3,CHALMERS Kyle,AUS,SWM,Men's 4 x 100m Freestyle Relay
+3,GRAHAM Alexander,AUS,SWM,Men's 4 x 100m Freestyle Relay
+3,INCERTI Zac,AUS,SWM,Men's 4 x 100m Freestyle Relay
+3,McEVOY Cameron,AUS,SWM,Men's 4 x 100m Freestyle Relay
+3,TEMPLE Matthew,AUS,SWM,Men's 4 x 100m Freestyle Relay
+1,MACNEIL Margaret,CAN,SWM,Women's 100m Butterfly
+2,ZHANG Yufei,CHN,SWM,Women's 100m Butterfly
+3,McKEON Emma,AUS,SWM,Women's 100m Butterfly
+1,TITMUS Ariarne,AUS,SWM,Women's 400m Freestyle
+2,LEDECKY Kathleen,USA,SWM,Women's 400m Freestyle
+3,LI Bingjie,CHN,SWM,Women's 400m Freestyle
+1,MIZUTANI Jun,JPN,TTE,Mixed Doubles
+1,ITO Mima,JPN,TTE,Mixed Doubles
+2,XU Xin,CHN,TTE,Mixed Doubles
+2,LIU Shiwen,CHN,TTE,Mixed Doubles
+3,LIN Yun Ju,TPE,TTE,Mixed Doubles
+3,CHENG I Ching,TPE,TTE,Mixed Doubles
+1,KHRAMTCOV Maksim,ROC,TKW,Men -80kg
+2,ELSHARABATY Saleh,JOR,TKW,Men -80kg
+3,KANAET Toni,CRO,TKW,Men -80kg
+3,EISSA Seif,EGY,TKW,Men -80kg
+1,JELIC Matea,CRO,TKW,Women -67kg
+2,WILLIAMS Lauren,GBR,TKW,Women -67kg
+3,GBAGBI Ruth,CIV,TKW,Women -67kg
+3,MALAK Hedaya,EGY,TKW,Women -67kg
+1,BLUMMENFELT Kristian,NOR,TRI,Men's Individual
+2,YEE Alex,GBR,TRI,Men's Individual
+3,WILDE Hayden,NZL,TRI,Men's Individual
+1,DIAZ Hidilyn,PHI,WLF,Women's 55kg
+2,LIAO Qiuyun,CHN,WLF,Women's 55kg
+3,CHINSHANLO Zulfiya,KAZ,WLF,Women's 55kg
+1,AKHAIMOVA Liliia,ROC,GAR,Women's Team
+1,MELNIKOVA Angelina,ROC,GAR,Women's Team
+1,URAZOVA Vladislava,ROC,GAR,Women's Team
+1,LISTUNOVA Viktoriia,ROC,GAR,Women's Team
+2,Mc CALLUM Grace,USA,GAR,Women's Team
+2,LEE Sunisa,USA,GAR,Women's Team
+2,CHILES Jordan,USA,GAR,Women's Team
+2,BILES Simone,USA,GAR,Women's Team
+3,GADIROVA Jennifer,GBR,GAR,Women's Team
+3,GADIROVA Jessica,GBR,GAR,Women's Team
+3,KINSELLA Alice,GBR,GAR,Women's Team
+3,MORGAN Amelie,GBR,GAR,Women's Team
+1,UENO Yukiko,JPN,BSB,Softball
+1,GOTO Miu,JPN,BSB,Softball
+1,FUJITA Yamato,JPN,BSB,Softball
+1,AGATSUMA Haruka,JPN,BSB,Softball
+1,KIYOHARA Nayu,JPN,BSB,Softball
+1,ATSUMI Mana,JPN,BSB,Softball
+1,ICHIGUCHI Yuka,JPN,BSB,Softball
+1,KAWABATA Hitomi,JPN,BSB,Softball
+1,NAITO Minori,JPN,BSB,Softball
+1,YAMAMOTO Yu,JPN,BSB,Softball
+1,HARADA Nodoka,JPN,BSB,Softball
+1,MORI Sayaka,JPN,BSB,Softball
+1,YAMAZAKI Saki,JPN,BSB,Softball
+1,YAMADA Eri,JPN,BSB,Softball
+1,MINE Yukiyo,JPN,BSB,Softball
+2,AGUILAR Ali,USA,BSB,Softball
+2,CARDA Ally,USA,BSB,Softball
+2,CHIDESTER Amanda,USA,BSB,Softball
+2,MUNRO Aubree,USA,BSB,Softball
+2,MULIPOLA Dejah,USA,BSB,Softball
+2,SPAULDING Delaney,USA,BSB,Softball
+2,Mc CLENEY Haylie,USA,BSB,Softball
+2,REED Janie,USA,BSB,Softball
+2,MOULTRIE Michelle,USA,BSB,Softball
+2,NICKLES Bubba,USA,BSB,Softball
+2,GARCIA Rachel,USA,BSB,Softball
+2,ARIOTO Valerie,USA,BSB,Softball
+2,OSTERMAN Cat,USA,BSB,Softball
+2,STEWART Kelsey,USA,BSB,Softball
+2,ABBOTT Monica,USA,BSB,Softball
+3,CAIRA Jenna,CAN,BSB,Softball
+3,ENTZMINGER Emma,CAN,BSB,Softball
+3,FRANKLIN Larissa,CAN,BSB,Softball
+3,GILBERT Jen,CAN,BSB,Softball
+3,GROENEWEGEN Sara,CAN,BSB,Softball
+3,HAYWARD Victoria,CAN,BSB,Softball
+3,HARSHMAN Kelsey,CAN,BSB,Softball
+3,LAWRIE Danielle,CAN,BSB,Softball
+3,LEUNG Janet,CAN,BSB,Softball
+3,LYE Joey,CAN,BSB,Softball
+3,POLIDORI Erika,CAN,BSB,Softball
+3,RAFTER Kaleigh,CAN,BSB,Softball
+3,REGULA Lauren,CAN,BSB,Softball
+3,SALLING Jenn,CAN,BSB,Softball
+3,WIDEMAN Natalie,CAN,BSB,Softball
+1,FUNK Ricarda,GER,CSL,Women's Kayak
+2,CHOURRAUT Maialen,ESP,CSL,Women's Kayak
+3,FOX Jessica,AUS,CSL,Women's Kayak
+1,NEFF Jolanda,SUI,MTB,Women's Cross-country
+2,FREI Sina,SUI,MTB,Women's Cross-country
+3,INDERGAND Linda,SUI,MTB,Women's Cross-country
+1,CHEN Yuxi,CHN,DIV,Women's Synchronised 10m Platform
+1,ZHANG Jiaqi,CHN,DIV,Women's Synchronised 10m Platform
+2,SCHNELL Delaney,USA,DIV,Women's Synchronised 10m Platform
+2,PARRATTO Jessica,USA,DIV,Women's Synchronised 10m Platform
+3,AGUNDEZ GARCIA Gabriela,MEX,DIV,Women's Synchronised 10m Platform
+3,OROZCO LOZA Alejandra,MEX,DIV,Women's Synchronised 10m Platform
+1,WERTH Isabell,GER,EQU,Dressage Team
+1,von BREDOW-WERNDL Jessica,GER,EQU,Dressage Team
+1,SCHNEIDER Dorothee,GER,EQU,Dressage Team
+2,LYLE Adrienne,USA,EQU,Dressage Team
+2,SCHUT-KERY Sabine,USA,EQU,Dressage Team
+2,PETERS Steffen,USA,EQU,Dressage Team
+3,DUJARDIN Charlotte,GBR,EQU,Dressage Team
+3,FRY Charlotte,GBR,EQU,Dressage Team
+3,HESTER Carl,GBR,EQU,Dressage Team
+1,BELJAJEVA Julia,EST,FEN,Women's &Eacute;p&eacute;e Team
+1,LEHIS Katrina,EST,FEN,Women's &Eacute;p&eacute;e Team
+1,KIRPU Erika,EST,FEN,Women's &Eacute;p&eacute;e Team
+1,EMBRICH Irina,EST,FEN,Women's &Eacute;p&eacute;e Team
+2,CHOI Injeong,KOR,FEN,Women's &Eacute;p&eacute;e Team
+2,LEE Hyein,KOR,FEN,Women's &Eacute;p&eacute;e Team
+2,KANG Young Mi,KOR,FEN,Women's &Eacute;p&eacute;e Team
+2,SONG Sera,KOR,FEN,Women's &Eacute;p&eacute;e Team
+3,SANTUCCIO Alberta,ITA,FEN,Women's &Eacute;p&eacute;e Team
+3,ISOLA Federica,ITA,FEN,Women's &Eacute;p&eacute;e Team
+3,FIAMINGO Rossella,ITA,FEN,Women's &Eacute;p&eacute;e Team
+3,NAVARRIA Mara,ITA,FEN,Women's &Eacute;p&eacute;e Team
+1,NAGASE Takanori,JPN,JUD,Men -81 kg
+2,MOLLAEI Saeid,MGL,JUD,Men -81 kg
+3,BORCHASHVILI Shamil,AUT,JUD,Men -81 kg
+3,CASSE Matthias,BEL,JUD,Men -81 kg
+1,AGBEGNENOU Clarisse,FRA,JUD,Women -63 kg
+2,TRSTENJAK Tina,SLO,JUD,Women -63 kg
+3,BEAUCHEMIN-PINARD Catherine,CAN,JUD,Women -63 kg
+3,CENTRACCHIO Maria,ITA,JUD,Women -63 kg
+1,JIANG Ranxin,CHN,SHO,10m Air Pistol Mixed Team
+1,PANG Wei,CHN,SHO,10m Air Pistol Mixed Team
+2,BATSARASHKINA Vitalina,ROC,SHO,10m Air Pistol Mixed Team
+2,CHERNOUSOV Artem,ROC,SHO,10m Air Pistol Mixed Team
+3,KOSTEVYCH Olena,UKR,SHO,10m Air Pistol Mixed Team
+3,OMELCHUK Oleh,UKR,SHO,10m Air Pistol Mixed Team
+1,YANG Qian,CHN,SHO,10m Air Rifle Mixed Team
+1,YANG Haoran,CHN,SHO,10m Air Rifle Mixed Team
+2,KOZENIESKY Lucas,USA,SHO,10m Air Rifle Mixed Team
+2,TUCKER Mary Carolynn,USA,SHO,10m Air Rifle Mixed Team
+3,KARIMOVA Yulia,ROC,SHO,10m Air Rifle Mixed Team
+3,KAMENSKIY Sergey,ROC,SHO,10m Air Rifle Mixed Team
+1,FERREIRA Italo,BRA,SRF,Men
+2,IGARASHI Kanoa,JPN,SRF,Men
+3,WRIGHT Owen,AUS,SRF,Men
+1,MOORE Carissa,USA,SRF,Women
+2,BUITENDAG Bianca,RSA,SRF,Women
+3,TSUZUKI Amuro,JPN,SRF,Women
+1,RYLOV Evgeny,ROC,SWM,Men's 100m Backstroke
+2,KOLESNIKOV Kliment,ROC,SWM,Men's 100m Backstroke
+3,MURPHY Ryan,USA,SWM,Men's 100m Backstroke
+1,DEAN Tom,GBR,SWM,Men's 200m Freestyle
+2,SCOTT Duncan,GBR,SWM,Men's 200m Freestyle
+3,SCHEFFER Fernando,BRA,SWM,Men's 200m Freestyle
+1,McKEOWN Kaylee,AUS,SWM,Women's 100m Backstroke
+2,MASSE Kylie,CAN,SWM,Women's 100m Backstroke
+3,SMITH Regan,USA,SWM,Women's 100m Backstroke
+1,JACOBY Lydia,USA,SWM,Women's 100m Breaststroke
+2,SCHOENMAKER Tatjana,RSA,SWM,Women's 100m Breaststroke
+3,KING Lilly,USA,SWM,Women's 100m Breaststroke
+1,LARIN Vladislav,ROC,TKW,Men +80kg
+2,GEORGIEVSKI Dejan,MKD,TKW,Men +80kg
+3,IN Kyo Don,KOR,TKW,Men +80kg
+3,ALBA CASTILLO Rafael Yunier,CUB,TKW,Men +80kg
+1,MANDIC Milica,SRB,TKW,Women +67kg
+2,LEE Dabin,KOR,TKW,Women +67kg
+3,LAURIN Althea,FRA,TKW,Women +67kg
+3,WALKDEN Bianca,GBR,TKW,Women +67kg
+1,DUFFY Flora,BER,TRI,Women's Individual
+2,TAYLOR-BROWN Georgia,GBR,TRI,Women's Individual
+3,ZAFERES Katie,USA,TRI,Women's Individual
+1,KUO Hsing-Chun,TPE,WLF,Women's 59kg
+2,GURYEVA Polina,TKM,WLF,Women's 59kg
+3,ANDOH Mikiko,JPN,WLF,Women's 59kg
+1,CHARRON Maude G,CAN,WLF,Women's 64kg
+2,BORDIGNON Giorgia,ITA,WLF,Women's 64kg
+3,CHEN Wen-Huei,TPE,WLF,Women's 64kg
+1,MIEZIS Nauris,LAT,BK3,Men
+1,LASMANIS Karlis,LAT,BK3,Men
+1,CAVARS Agnis,LAT,BK3,Men
+1,KRUMINS Edgars,LAT,BK3,Men
+2,ZUEV Alexander,ROC,BK3,Men
+2,KARPENKOV Ilia,ROC,BK3,Men
+2,PISKLOV Kirill,ROC,BK3,Men
+2,SHAROV Stanislav,ROC,BK3,Men
+3,DOMOVIC BULUT Dusan,SRB,BK3,Men
+3,MAJSTOROVIC Dejan,SRB,BK3,Men
+3,RATKOV Aleksandar,SRB,BK3,Men
+3,VASIC Mihailo,SRB,BK3,Men
+1,YOUNG Jacquelyn,USA,BK3,Women
+1,GRAY Allisha,USA,BK3,Women
+1,PLUM Kelsey,USA,BK3,Women
+1,DOLSON Stefanie,USA,BK3,Women
+2,KOZIK Yulia,ROC,BK3,Women
+2,LOGUNOVA Anastasiia,ROC,BK3,Women
+2,FROLKINA Evgeniia,ROC,BK3,Women
+2,FROLKINA Olga,ROC,BK3,Women
+3,ZHANG Zhiting,CHN,BK3,Women
+3,WAN Jiyuan,CHN,BK3,Women
+3,YANG Shuyu,CHN,BK3,Women
+3,WANG Lili,CHN,BK3,Women
+1,HASHIMOTO Daiki,JPN,GAR,Men's All-Around
+2,XIAO Ruoteng,CHN,GAR,Men's All-Around
+3,NAGORNYY Nikita,ROC,GAR,Men's All-Around
+1,ROGLIC Primoz,SLO,CRD,Men's Individual Time Trial
+2,DUMOULIN Tom,NED,CRD,Men's Individual Time Trial
+3,DENNIS Rohan,AUS,CRD,Men's Individual Time Trial
+1,van VLEUTEN Annemiek,NED,CRD,Women's Individual Time Trial
+2,REUSSER Marlen,SUI,CRD,Women's Individual Time Trial
+3,van der BREGGEN Anna,NED,CRD,Women's Individual Time Trial
+1,WANG Zongyuan,CHN,DIV,Men's Synchronised 3m Springboard
+1,XIE Siyi,CHN,DIV,Men's Synchronised 3m Springboard
+2,CAPOBIANCO Andrew,USA,DIV,Men's Synchronised 3m Springboard
+2,HIXON Michael,USA,DIV,Men's Synchronised 3m Springboard
+3,HAUSDING Patrick,GER,DIV,Men's Synchronised 3m Springboard
+3,RUDIGER Lars,GER,DIV,Men's Synchronised 3m Springboard
+1,von BREDOW-WERNDL Jessica,GER,EQU,Dressage Individual
+2,WERTH Isabell,GER,EQU,Dressage Individual
+3,DUJARDIN Charlotte,GBR,EQU,Dressage Individual
+1,OH Sanguk,KOR,FEN,Men's Sabre Team
+1,KIM Junho,KOR,FEN,Men's Sabre Team
+1,KIM Junghwan,KOR,FEN,Men's Sabre Team
+1,GU Bongil,KOR,FEN,Men's Sabre Team
+2,MONTANO Aldo,ITA,FEN,Men's Sabre Team
+2,SAMELE Luigi,ITA,FEN,Men's Sabre Team
+2,BERRE' Enrico,ITA,FEN,Men's Sabre Team
+2,CURATOLI Luca,ITA,FEN,Men's Sabre Team
+3,SZILAGYI Aron,HUN,FEN,Men's Sabre Team
+3,SZATMARI Andras,HUN,FEN,Men's Sabre Team
+3,DECSI Tamas,HUN,FEN,Men's Sabre Team
+3,GEMESI Csanad,HUN,FEN,Men's Sabre Team
+1,BEKAURI Lasha,GEO,JUD,Men -90 kg
+2,TRIPPEL Eduard,GER,JUD,Men -90 kg
+3,BOBONOV Davlat,UZB,JUD,Men -90 kg
+3,TOTH Krisztian,HUN,JUD,Men -90 kg
+1,ARAI Chizuru,JPN,JUD,Women -70 kg
+2,POLLERES Michaela,AUT,JUD,Women -70 kg
+3,van DIJKE Sanne,NED,JUD,Women -70 kg
+3,TAIMAZOVA Madina,ROC,JUD,Women -70 kg
+1,BOUCHERON Hugo,FRA,ROW,Men's Double Sculls
+1,ANDRODIAS Matthieu,FRA,ROW,Men's Double Sculls
+2,BROENINK Stef,NED,ROW,Men's Double Sculls
+2,TWELLAAR Melvin,NED,ROW,Men's Double Sculls
+3,LIU Zhiyu,CHN,ROW,Men's Double Sculls
+3,ZHANG Liang,CHN,ROW,Men's Double Sculls
+1,TURRIN Spencer,AUS,ROW,Men's Four
+1,HARGREAVES Jack,AUS,ROW,Men's Four
+1,HILL Alexander,AUS,ROW,Men's Four
+1,PURNELL Alexander,AUS,ROW,Men's Four
+2,PASCARI Cosmin,ROU,ROW,Men's Four
+2,SEMCIUC Mugurel Vasile,ROU,ROW,Men's Four
+2,TIGANESCU Mihaita,ROU,ROW,Men's Four
+2,BERARIU Stefan,ROU,ROW,Men's Four
+3,CASTALDO Matteo,ITA,ROW,Men's Four
+3,VICINO Giuseppe,ITA,ROW,Men's Four
+3,LODO Matteo,ITA,ROW,Men's Four
+3,di COSTANZO Marco,ITA,ROW,Men's Four
+1,WIERSMA Abe,NED,ROW,Men's Quadruple Sculls
+1,WIETEN Tone,NED,ROW,Men's Quadruple Sculls
+1,METSEMAKERS Koen,NED,ROW,Men's Quadruple Sculls
+1,UITTENBOGAARD Lucas Theodoor Dirk,NED,ROW,Men's Quadruple Sculls
+2,GROOM Angus,GBR,ROW,Men's Quadruple Sculls
+2,LEASK Harry,GBR,ROW,Men's Quadruple Sculls
+2,BARRAS Tom,GBR,ROW,Men's Quadruple Sculls
+2,BEAUMONT Jack,GBR,ROW,Men's Quadruple Sculls
+3,GIRDLESTONE Cameron,AUS,ROW,Men's Quadruple Sculls
+3,ANTILL Caleb,AUS,ROW,Men's Quadruple Sculls
+3,CLEARY Jack,AUS,ROW,Men's Quadruple Sculls
+3,LETCHER Luke,AUS,ROW,Men's Quadruple Sculls
+1,BODNAR Ancuta,ROU,ROW,Women's Double Sculls
+1,RADIS Simona,ROU,ROW,Women's Double Sculls
+2,OSBORNE Hannah,NZL,ROW,Women's Double Sculls
+2,DONOGHUE Brooke,NZL,ROW,Women's Double Sculls
+3,de JONG Roos,NED,ROW,Women's Double Sculls
+3,SCHEENAARD Lisa,NED,ROW,Women's Double Sculls
+1,STEPHAN Lucy,AUS,ROW,Women's Four
+1,MORRISON Jessica,AUS,ROW,Women's Four
+1,POPA Rosemary,AUS,ROW,Women's Four
+1,McINTYRE Annabelle,AUS,ROW,Women's Four
+2,HOGERWERF Ellen,NED,ROW,Women's Four
+2,CLEVERING Ymkje,NED,ROW,Women's Four
+2,FLORIJN Karolien,NED,ROW,Women's Four
+2,MEESTER Veronique,NED,ROW,Women's Four
+3,HEGARTY Emily,IRL,ROW,Women's Four
+3,LAMBE Eimear,IRL,ROW,Women's Four
+3,KEOGH Aifric,IRL,ROW,Women's Four
+3,MURTAGH Fiona,IRL,ROW,Women's Four
+1,ZHANG Ling,CHN,ROW,Women's Quadruple Sculls
+1,CHEN Yunxia,CHN,ROW,Women's Quadruple Sculls
+1,CUI Xiaotong,CHN,ROW,Women's Quadruple Sculls
+1,LYU Yang,CHN,ROW,Women's Quadruple Sculls
+2,ZILLMANN Katarzyna,POL,ROW,Women's Quadruple Sculls
+2,KOBUS-ZAWOJSKA Agnieszka,POL,ROW,Women's Quadruple Sculls
+2,SAJDAK Maria,POL,ROW,Women's Quadruple Sculls
+2,WIELICZKO Marta,POL,ROW,Women's Quadruple Sculls
+3,MEREDITH Rowena,AUS,ROW,Women's Quadruple Sculls
+3,HUDSON Harriet,AUS,ROW,Women's Quadruple Sculls
+3,THOMPSON Ria,AUS,ROW,Women's Quadruple Sculls
+3,CRONIN Caitlin,AUS,ROW,Women's Quadruple Sculls
+1,VAKURUNABILI Josua,FIJ,RUG,Men
+1,DERENALAGI Meli,FIJ,RUG,Men
+1,NACUQU Waisea,FIJ,RUG,Men
+1,TUIMABA Aminiasi,FIJ,RUG,Men
+1,TUWAI Jerry,FIJ,RUG,Men
+1,BOTITU Vilimoni,FIJ,RUG,Men
+1,NASOKO Kalione,FIJ,RUG,Men
+1,BOLACA Napolioni,FIJ,RUG,Men
+1,TUIVUAKA Asaeli,FIJ,RUG,Men
+1,WAINIQOLO Jiuta,FIJ,RUG,Men
+1,RADRADRA Semi,FIJ,RUG,Men
+1,MAQALA Sireli,FIJ,RUG,Men
+1,BALEIWAIRIKI Iosefo Masikau,FIJ,RUG,Men
+2,WARBRICK William,NZL,RUG,Men
+2,WARE Regan,NZL,RUG,Men
+2,WEBBER Joe,NZL,RUG,Men
+2,NG SHIU Tone,NZL,RUG,Men
+2,NICOLE Amanaki,NZL,RUG,Men
+2,BAKER Kurt,NZL,RUG,Men
+2,COLLIER Dylan,NZL,RUG,Men
+2,CURRY Scott,NZL,RUG,Men
+2,KNEWSTUBB Andrew,NZL,RUG,Men
+2,McGARVEY-BLACK Ngarohi,NZL,RUG,Men
+2,MIKKELSON Tim,NZL,RUG,Men
+2,MOLIA Sione,NZL,RUG,Men
+2,NANAI-SETURO Etene,NZL,RUG,Men
+3,ALVAREZ Santiago,ARG,RUG,Men
+3,BAZAN VELEZ Lautaro,ARG,RUG,Men
+3,del MESTRE Felipe,ARG,RUG,Men
+3,OSADCZUK Matias,ARG,RUG,Men
+3,ETCHART Rodrigo,ARG,RUG,Men
+3,REVOL Gaston,ARG,RUG,Men
+3,GONZALEZ Luciano,ARG,RUG,Men
+3,MARE Santiago,ARG,RUG,Men
+3,MONETA Marcos,ARG,RUG,Men
+3,CINTI Lucio,ARG,RUG,Men
+3,MENDY Ignacio,ARG,RUG,Men
+3,SCHULZ German,ARG,RUG,Men
+3,ISGRO Rodrigo,ARG,RUG,Men
+1,MILAK Kristof,HUN,SWM,Men's 200m Butterfly
+2,HONDA Tomoru,JPN,SWM,Men's 200m Butterfly
+3,BURDISSO Federico,ITA,SWM,Men's 200m Butterfly
+1,SCOTT Duncan,GBR,SWM,Men's 4 x 200m Freestyle Relay
+1,DEAN Tom,GBR,SWM,Men's 4 x 200m Freestyle Relay
+1,JARVIS Calum,GBR,SWM,Men's 4 x 200m Freestyle Relay
+1,GUY James,GBR,SWM,Men's 4 x 200m Freestyle Relay
+1,RICHARDS Matthew,GBR,SWM,Men's 4 x 200m Freestyle Relay
+2,RYLOV Evgeny,ROC,SWM,Men's 4 x 200m Freestyle Relay
+2,VEKOVISHCHEV Mikhail,ROC,SWM,Men's 4 x 200m Freestyle Relay
+2,GIREV Ivan,ROC,SWM,Men's 4 x 200m Freestyle Relay
+2,DOVGALYUK Mikhail,ROC,SWM,Men's 4 x 200m Freestyle Relay
+2,KRASNYKH Aleksandr,ROC,SWM,Men's 4 x 200m Freestyle Relay
+2,MALYUTIN Martin,ROC,SWM,Men's 4 x 200m Freestyle Relay
+3,WINNINGTON Elijah,AUS,SWM,Men's 4 x 200m Freestyle Relay
+3,INCERTI Zac,AUS,SWM,Men's 4 x 200m Freestyle Relay
+3,GRAHAM Alexander,AUS,SWM,Men's 4 x 200m Freestyle Relay
+3,HORTON Mack,AUS,SWM,Men's 4 x 200m Freestyle Relay
+3,CHALMERS Kyle,AUS,SWM,Men's 4 x 200m Freestyle Relay
+3,NEILL Thomas,AUS,SWM,Men's 4 x 200m Freestyle Relay
+1,LEDECKY Kathleen,USA,SWM,Women's 1500m Freestyle
+2,SULLIVAN Erica,USA,SWM,Women's 1500m Freestyle
+3,KOHLER Sarah,GER,SWM,Women's 1500m Freestyle
+1,TITMUS Ariarne,AUS,SWM,Women's 200m Freestyle
+2,HAUGHEY Siobhan Bernadette,HKG,SWM,Women's 200m Freestyle
+3,OLEKSIAK Penny,CAN,SWM,Women's 200m Freestyle
+1,OHASHI Yui,JPN,SWM,Women's 200m Individual Medley
+2,WALSH Alex,USA,SWM,Women's 200m Individual Medley
+3,DOUGLASS Kate,USA,SWM,Women's 200m Individual Medley
+1,SHI Zhiyong,CHN,WLF,Men's 73kg
+2,MAYORA PERNIA Julio Ruben,VEN,WLF,Men's 73kg
+3,ABDULLAH Rahmat Erwin,INA,WLF,Men's 73kg
+1,LEE Sunisa,USA,GAR,Women's All-Around
+2,ANDRADE Rebeca,BRA,GAR,Women's All-Around
+3,MELNIKOVA Angelina,ROC,GAR,Women's All-Around
+1,FOX Jessica,AUS,CSL,Women's Canoe
+2,FRANKLIN Mallory,GBR,CSL,Women's Canoe
+3,HERZOG Andrea,GER,CSL,Women's Canoe
+1,DERIGLAZOVA Inna,ROC,FEN,Women's Foil Team
+1,ZAGIDULLINA Adelina,ROC,FEN,Women's Foil Team
+1,KOROBEYNIKOVA Larisa,ROC,FEN,Women's Foil Team
+1,MARTYANOVA Marta,ROC,FEN,Women's Foil Team
+2,BLAZE Anita,FRA,FEN,Women's Foil Team
+2,GUYART Astrid,FRA,FEN,Women's Foil Team
+2,RANVIER Pauline,FRA,FEN,Women's Foil Team
+2,THIBUS Ysaora,FRA,FEN,Women's Foil Team
+3,VOLPI Alice,ITA,FEN,Women's Foil Team
+3,ERRIGO Arianna,ITA,FEN,Women's Foil Team
+3,BATINI Martina,ITA,FEN,Women's Foil Team
+3,CIPRESSA Erica,ITA,FEN,Women's Foil Team
+1,WOLF Aaron,JPN,JUD,Men -100 kg
+2,CHO Guham,KOR,JUD,Men -100 kg
+3,ILIASOV Niiaz,ROC,JUD,Men -100 kg
+3,FONSECA Jorge,POR,JUD,Men -100 kg
+1,HAMADA Shori,JPN,JUD,Women -78 kg
+2,MALONGA Madeleine,FRA,JUD,Women -78 kg
+3,AGUIAR Mayra,BRA,JUD,Women -78 kg
+3,WAGNER Anna-Maria,GER,JUD,Women -78 kg
+1,Mc CARTHY Fintan,IRL,ROW,Lightweight Men's Double Sculls
+1,O'DONOVAN Paul,IRL,ROW,Lightweight Men's Double Sculls
+2,ROMMELMANN Jonathan,GER,ROW,Lightweight Men's Double Sculls
+2,OSBORNE Jason,GER,ROW,Lightweight Men's Double Sculls
+3,OPPO Stefano,ITA,ROW,Lightweight Men's Double Sculls
+3,RUTA Pietro,ITA,ROW,Lightweight Men's Double Sculls
+1,CESARINI Federica,ITA,ROW,Lightweight Women's Double Sculls
+1,RODINI Valentina,ITA,ROW,Lightweight Women's Double Sculls
+2,BOVE Claire,FRA,ROW,Lightweight Women's Double Sculls
+2,TARANTOLA Laura,FRA,ROW,Lightweight Women's Double Sculls
+3,KEIJSER Marieke,NED,ROW,Lightweight Women's Double Sculls
+3,PAULIS Ilse,NED,ROW,Lightweight Women's Double Sculls
+1,SINKOVIC Martin,CRO,ROW,Men's Pair
+1,SINKOVIC Valent,CRO,ROW,Men's Pair
+2,COZMIUC Marius,ROU,ROW,Men's Pair
+2,TUDOSA Ciprian,ROU,ROW,Men's Pair
+3,VYSTAVEL Frederic,DEN,ROW,Men's Pair
+3,SUTTON Joachim,DEN,ROW,Men's Pair
+1,PRENDERGAST Grace,NZL,ROW,Women's Pair
+1,GOWLER Kerri,NZL,ROW,Women's Pair
+2,ORIABINSKAIA Elena,ROC,ROW,Women's Pair
+2,STEPANOVA Vasilisa,ROC,ROW,Women's Pair
+3,JANSSENS Hillary,CAN,ROW,Women's Pair
+3,FILMER Caileigh,CAN,ROW,Women's Pair
+1,LIPTAK Jiri,CZE,SHO,Trap Men
+2,KOSTELECKY David,CZE,SHO,Trap Men
+3,COWARD HOLLEY Matthew John,GBR,SHO,Trap Men
+1,REHAK STEFECEKOVA Zuzana,SVK,SHO,Trap Women
+2,BROWNING Kayle,USA,SHO,Trap Women
+3,PERILLI Alessandra,SMR,SHO,Trap Women
+1,DRESSEL Caeleb,USA,SWM,Men's 100m Freestyle
+2,CHALMERS Kyle,AUS,SWM,Men's 100m Freestyle
+3,KOLESNIKOV Kliment,ROC,SWM,Men's 100m Freestyle
+1,STUBBLETY-COOK Izaac,AUS,SWM,Men's 200m Breaststroke
+2,KAMMINGA Arno,NED,SWM,Men's 200m Breaststroke
+3,MATTSSON Matti,FIN,SWM,Men's 200m Breaststroke
+1,FINKE Robert,USA,SWM,Men's 800m Freestyle
+2,PALTRINIERI Gregorio,ITA,SWM,Men's 800m Freestyle
+3,ROMANCHUK Mykhailo,UKR,SWM,Men's 800m Freestyle
+1,ZHANG Yufei,CHN,SWM,Women's 200m Butterfly
+2,SMITH Regan,USA,SWM,Women's 200m Butterfly
+3,FLICKINGER Hali,USA,SWM,Women's 200m Butterfly
+1,YANG Junxuan,CHN,SWM,Women's 4 x 200m Freestyle Relay
+1,ZHANG Yufei,CHN,SWM,Women's 4 x 200m Freestyle Relay
+1,DONG Jie,CHN,SWM,Women's 4 x 200m Freestyle Relay
+1,ZHANG Yifan,CHN,SWM,Women's 4 x 200m Freestyle Relay
+1,TANG Muhan,CHN,SWM,Women's 4 x 200m Freestyle Relay
+1,LI Bingjie,CHN,SWM,Women's 4 x 200m Freestyle Relay
+2,MADDEN Paige,USA,SWM,Women's 4 x 200m Freestyle Relay
+2,Mc LAUGHLIN Kathryn,USA,SWM,Women's 4 x 200m Freestyle Relay
+2,SIMS Arabella,USA,SWM,Women's 4 x 200m Freestyle Relay
+2,LEDECKY Kathleen,USA,SWM,Women's 4 x 200m Freestyle Relay
+2,FORDE Brooke,USA,SWM,Women's 4 x 200m Freestyle Relay
+2,SCHMITT Allison,USA,SWM,Women's 4 x 200m Freestyle Relay
+3,THROSSELL Brianna,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,WILSON Madison,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,O'CALLAGHAN Mollie,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,COOK Tamsin,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,HARRIS Meg,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,TITMUS Ariarne,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,NEALE Leah,AUS,SWM,Women's 4 x 200m Freestyle Relay
+3,McKEON Emma,AUS,SWM,Women's 4 x 200m Freestyle Relay
+1,CHEN Meng,CHN,TTE,Women's Singles
+2,SUN Yingsha,CHN,TTE,Women's Singles
+3,ITO Mima,JPN,TTE,Women's Singles
+1,AN San,KOR,ARC,Women's Individual
+2,OSIPOVA Elena,ROC,ARC,Women's Individual
+3,BOARI Lucilla,ITA,ARC,Women's Individual
+1,BAREGA Selemon,ETH,ATH,"Men's 10,000m"
+2,CHEPTEGEI Joshua,UGA,ATH,"Men's 10,000m"
+3,KIPLIMO Jacob,UGA,ATH,"Men's 10,000m"
+1,WANG Yi Lyu,CHN,BDM,Mixed Doubles
+1,HUANG Dong Ping,CHN,BDM,Mixed Doubles
+2,ZHENG Si Wei,CHN,BDM,Mixed Doubles
+2,HUANG Ya Qiong,CHN,BDM,Mixed Doubles
+3,WATANABE Yuta,JPN,BDM,Mixed Doubles
+3,HIGASHINO Arisa,JPN,BDM,Mixed Doubles
+1,PRSKAVEC Jiri,CZE,CSL,Men's Kayak
+2,GRIGAR Jakub,SVK,CSL,Men's Kayak
+3,AIGNER Hannes,GER,CSL,Men's Kayak
+1,KIMMANN Niek,NED,BMX,Men
+2,WHYTE Kye,GBR,BMX,Men
+3,RAMIREZ YEPES Carlos Alberto,COL,BMX,Men
+1,SHRIEVER Bethany,GBR,BMX,Women
+2,PAJON Mariana,COL,BMX,Women
+3,SMULDERS Merel,NED,BMX,Women
+1,MINOBE Kazuyasu,JPN,FEN,Men's &Eacute;p&eacute;e Team
+1,KANO Koki,JPN,FEN,Men's &Eacute;p&eacute;e Team
+1,YAMADA Masaru,JPN,FEN,Men's &Eacute;p&eacute;e Team
+1,UYAMA Satoru,JPN,FEN,Men's &Eacute;p&eacute;e Team
+2,BIDA Sergey,ROC,FEN,Men's &Eacute;p&eacute;e Team
+2,KHODOS Sergey,ROC,FEN,Men's &Eacute;p&eacute;e Team
+2,SUKHOV Pavel,ROC,FEN,Men's &Eacute;p&eacute;e Team
+2,GLAZKOV Nikita,ROC,FEN,Men's &Eacute;p&eacute;e Team
+3,KWEON Youngjun,KOR,FEN,Men's &Eacute;p&eacute;e Team
+3,PARK Sangyoung,KOR,FEN,Men's &Eacute;p&eacute;e Team
+3,MA Segeon,KOR,FEN,Men's &Eacute;p&eacute;e Team
+3,SONG Jaeho,KOR,FEN,Men's &Eacute;p&eacute;e Team
+1,KRPALEK Lukas,CZE,JUD,Men +100 kg
+2,TUSHISHVILI Guram,GEO,JUD,Men +100 kg
+3,RINER Teddy,FRA,JUD,Men +100 kg
+3,BASHAEV Tamerlan,ROC,JUD,Men +100 kg
+1,SONE Akira,JPN,JUD,Women +78 kg
+2,ORTIZ Idalys,CUB,JUD,Women +78 kg
+3,DICKO Romane,FRA,JUD,Women +78 kg
+3,KINDZERSKA Iryna,AZE,JUD,Women +78 kg
+1,BOND Hamish,NZL,ROW,Men's Eight
+1,BOSWORTH Sam,NZL,ROW,Men's Eight
+1,BRAKE Michael,NZL,ROW,Men's Eight
+1,KIRKHAM Shaun,NZL,ROW,Men's Eight
+1,MACDONALD Matt,NZL,ROW,Men's Eight
+1,MACKINTOSH Thomas,NZL,ROW,Men's Eight
+1,MURRAY Tom,NZL,ROW,Men's Eight
+1,WILLIAMSON Daniel,NZL,ROW,Men's Eight
+1,WILSON Phillip,NZL,ROW,Men's Eight
+2,FOLLERT Laurits,GER,ROW,Men's Eight
+2,JAKSCHIK Malte,GER,ROW,Men's Eight
+2,JOHANNESEN Torben,GER,ROW,Men's Eight
+2,OCIK Hannes,GER,ROW,Men's Eight
+2,SAUER Martin,GER,ROW,Men's Eight
+2,SCHMIDT Richard,GER,ROW,Men's Eight
+2,SCHNEIDER Jakob,GER,ROW,Men's Eight
+2,WEISSENFELD Johannes,GER,ROW,Men's Eight
+2,ROGGENSACK Olaf,GER,ROW,Men's Eight
+3,BUGAJSKI Josh,GBR,ROW,Men's Eight
+3,DAWSON Jacob,GBR,ROW,Men's Eight
+3,ELWES Charles,GBR,ROW,Men's Eight
+3,FIELDMAN Henry,GBR,ROW,Men's Eight
+3,FORD Tom,GBR,ROW,Men's Eight
+3,GEORGE Tom,GBR,ROW,Men's Eight
+3,RUDKIN James,GBR,ROW,Men's Eight
+3,SBIHI Mohamed,GBR,ROW,Men's Eight
+3,WYNNE-GRIFFITH Oliver,GBR,ROW,Men's Eight
+1,NTOUSKOS Stefanos,GRE,ROW,Men's Single Sculls
+2,BORCH Kjetil,NOR,ROW,Men's Single Sculls
+3,MARTIN Damir,CRO,ROW,Men's Single Sculls
+1,GRAINGER Susanne,CAN,ROW,Women's Eight
+1,GRUCHALLA-WESIERSKI Kasia,CAN,ROW,Women's Eight
+1,KIT Kristen,CAN,ROW,Women's Eight
+1,MAILEY Madison,CAN,ROW,Women's Eight
+1,PAYNE Sydney,CAN,ROW,Women's Eight
+1,PROSKE Andrea,CAN,ROW,Women's Eight
+1,ROMAN Lisa,CAN,ROW,Women's Eight
+1,ROPER Christine,CAN,ROW,Women's Eight
+1,WASTENEYS Avalon,CAN,ROW,Women's Eight
+2,DYKE Emma,NZL,ROW,Women's Eight
+2,GOWLER Jackie,NZL,ROW,Women's Eight
+2,GOWLER Kerri,NZL,ROW,Women's Eight
+2,BEVAN Kelsey,NZL,ROW,Women's Eight
+2,PRENDERGAST Grace,NZL,ROW,Women's Eight
+2,ROSS Beth,NZL,ROW,Women's Eight
+2,SHEPHERD Caleb,NZL,ROW,Women's Eight
+2,SPOORS Lucy,NZL,ROW,Women's Eight
+2,GREENSLADE Ella,NZL,ROW,Women's Eight
+3,ZHANG Min,CHN,ROW,Women's Eight
+3,GUO Linlin,CHN,ROW,Women's Eight
+3,JU Rui,CHN,ROW,Women's Eight
+3,LI Jingjing,CHN,ROW,Women's Eight
+3,MIAO Tian,CHN,ROW,Women's Eight
+3,WANG Yuwei,CHN,ROW,Women's Eight
+3,WANG Zifeng,CHN,ROW,Women's Eight
+3,XU Fei,CHN,ROW,Women's Eight
+3,ZHANG Dechang,CHN,ROW,Women's Eight
+1,TWIGG Emma,NZL,ROW,Women's Single Sculls
+2,PRAKATSEN Hanna,ROC,ROW,Women's Single Sculls
+3,LOBNIG Magdalena,AUT,ROW,Women's Single Sculls
+1,BATSARASHKINA Vitalina,ROC,SHO,25m Pistol Women
+2,KIM Minjung,KOR,SHO,25m Pistol Women
+3,XIAO Jiaruixuan,CHN,SHO,25m Pistol Women
+1,RYLOV Evgeny,ROC,SWM,Men's 200m Backstroke
+2,MURPHY Ryan,USA,SWM,Men's 200m Backstroke
+3,GREENBANK Luke,GBR,SWM,Men's 200m Backstroke
+1,WANG Shun,CHN,SWM,Men's 200m Individual Medley
+2,SCOTT Duncan,GBR,SWM,Men's 200m Individual Medley
+3,DESPLANCHES Jeremy,SUI,SWM,Men's 200m Individual Medley
+1,McKEON Emma,AUS,SWM,Women's 100m Freestyle
+2,HAUGHEY Siobhan Bernadette,HKG,SWM,Women's 100m Freestyle
+3,CAMPBELL Cate,AUS,SWM,Women's 100m Freestyle
+1,SCHOENMAKER Tatjana,RSA,SWM,Women's 200m Breaststroke
+2,KING Lilly,USA,SWM,Women's 200m Breaststroke
+3,LAZOR Annie,USA,SWM,Women's 200m Breaststroke
+1,MA Long,CHN,TTE,Men's Singles
+2,FAN Zhendong,CHN,TTE,Men's Singles
+3,OVTCHAROV Dimitrij,GER,TTE,Men's Singles
+1,MEKTIC Nikola,CRO,TEN,Men's Doubles
+1,PAVIC Mate,CRO,TEN,Men's Doubles
+2,CILIC Marin,CRO,TEN,Men's Doubles
+2,DODIG Ivan,CRO,TEN,Men's Doubles
+3,DANIELL Marcus,NZL,TEN,Men's Doubles
+3,VENUS Michael,NZL,TEN,Men's Doubles
+1,ZHU Xueying,CHN,GTR,Women
+2,LIU Lingling,CHN,GTR,Women
+3,PAGE Bryony,GBR,GTR,Women
+1,GAZOZ Mete,TUR,ARC,Men's Individual
+2,NESPOLI Mauro,ITA,ARC,Men's Individual
+3,FURUKAWA Takaharu,JPN,ARC,Men's Individual
+1,HOLUB-KOWALIK Malgorzata,POL,ATH,4 x 400m Relay Mixed
+1,KACZMAREK Natalia,POL,ATH,4 x 400m Relay Mixed
+1,BAUMGART-WITAN Iga,POL,ATH,4 x 400m Relay Mixed
+1,SWIETY-ERSETIC Justyna,POL,ATH,4 x 400m Relay Mixed
+1,DUSZYNSKI Kajetan,POL,ATH,4 x 400m Relay Mixed
+1,ZALEWSKI Karol,POL,ATH,4 x 400m Relay Mixed
+1,KOWALUK Dariusz,POL,ATH,4 x 400m Relay Mixed
+2,OGANDO Alexander,DOM,ATH,4 x 400m Relay Mixed
+2,SANTOS Luguelin,DOM,ATH,4 x 400m Relay Mixed
+2,FELIZ Lidio Andres,DOM,ATH,4 x 400m Relay Mixed
+2,PAULINO Marileidy,DOM,ATH,4 x 400m Relay Mixed
+2,MEDINA VENTURA Anabel,DOM,ATH,4 x 400m Relay Mixed
+3,GODWIN Elija,USA,ATH,4 x 400m Relay Mixed
+3,DEADMON Bryce,USA,ATH,4 x 400m Relay Mixed
+3,ELLIS Kendall,USA,ATH,4 x 400m Relay Mixed
+3,WHITNEY Kaylin,USA,ATH,4 x 400m Relay Mixed
+3,STEWART Trevor,USA,ATH,4 x 400m Relay Mixed
+3,MANSON Taylor,USA,ATH,4 x 400m Relay Mixed
+3,IRBY Lynna,USA,ATH,4 x 400m Relay Mixed
+3,NORWOOD Vernon,USA,ATH,4 x 400m Relay Mixed
+1,STAHL Daniel,SWE,ATH,Men's Discus Throw
+2,PETTERSSON Simon,SWE,ATH,Men's Discus Throw
+3,WEISSHAIDINGER Lukas,AUT,ATH,Men's Discus Throw
+1,THOMPSON-HERAH Elaine,JAM,ATH,Women's 100m
+2,FRASER-PRYCE Shelly-Ann,JAM,ATH,Women's 100m
+3,JACKSON Shericka,JAM,ATH,Women's 100m
+1,WANG Chi-Lin,TPE,BDM,Men's Doubles
+1,LEE Yang,TPE,BDM,Men's Doubles
+2,LI Jun Hui,CHN,BDM,Men's Doubles
+2,LIU Yu Chen,CHN,BDM,Men's Doubles
+3,CHIA Aaron,MAS,BDM,Men's Doubles
+3,SOH Wooi Yik,MAS,BDM,Men's Doubles
+3,TESTA Irma,ITA,BOX,Women's Feather (54-57kg)
+3,ARTINGSTALL Karriss,GBR,BOX,Women's Feather (54-57kg)
+1,POZDNIAKOVA Sofia,ROC,FEN,Women's Sabre Team
+1,NIKITINA Olga,ROC,FEN,Women's Sabre Team
+1,VELIKAYA Sofya,ROC,FEN,Women's Sabre Team
+2,BALZER Sara,FRA,FEN,Women's Sabre Team
+2,BERDER Cecilia,FRA,FEN,Women's Sabre Team
+2,BRUNET Manon,FRA,FEN,Women's Sabre Team
+2,LEMBACH Charlotte,FRA,FEN,Women's Sabre Team
+3,KIM Jiyeon,KOR,FEN,Women's Sabre Team
+3,YOON Jisu,KOR,FEN,Women's Sabre Team
+3,SEO Jiyeon,KOR,FEN,Women's Sabre Team
+3,CHOI Sooyeon,KOR,FEN,Women's Sabre Team
+1,BUCHARD Amandine,FRA,JUD,Mixed Team
+1,RINER Teddy,FRA,JUD,Mixed Team
+1,le BLOUCH Kilian,FRA,JUD,Mixed Team
+1,CHAINE Guillaume,FRA,JUD,Mixed Team
+1,CLERGET Axel,FRA,JUD,Mixed Team
+1,IDDIR Alexandre,FRA,JUD,Mixed Team
+1,DICKO Romane,FRA,JUD,Mixed Team
+1,MALONGA Madeleine,FRA,JUD,Mixed Team
+1,AGBEGNENOU Clarisse,FRA,JUD,Mixed Team
+1,PINOT Margaux,FRA,JUD,Mixed Team
+1,CYSIQUE Sarah Leonie,FRA,JUD,Mixed Team
+2,ABE Uta,JPN,JUD,Mixed Team
+2,ARAI Chizuru,JPN,JUD,Mixed Team
+2,YOSHIDA Tsukasa,JPN,JUD,Mixed Team
+2,TASHIRO Miku,JPN,JUD,Mixed Team
+2,SONE Akira,JPN,JUD,Mixed Team
+2,HARASAWA Hisayoshi,JPN,JUD,Mixed Team
+2,HAMADA Shori,JPN,JUD,Mixed Team
+2,NAGASE Takanori,JPN,JUD,Mixed Team
+2,WOLF Aaron,JPN,JUD,Mixed Team
+2,MUKAI Shoichiro,JPN,JUD,Mixed Team
+2,ONO Shohei,JPN,JUD,Mixed Team
+2,ABE Hifumi,JPN,JUD,Mixed Team
+3,MUKI Sagi,ISR,JUD,Mixed Team
+3,BUTBUL Tohar,ISR,JUD,Mixed Team
+3,SASSON Or,ISR,JUD,Mixed Team
+3,KOCHMAN Li,ISR,JUD,Mixed Team
+3,SHMAILOV Baruch,ISR,JUD,Mixed Team
+3,PALTCHIK Peter,ISR,JUD,Mixed Team
+3,LANIR Inbar,ISR,JUD,Mixed Team
+3,SHARIR Gili,ISR,JUD,Mixed Team
+3,HERSHKO Raz,ISR,JUD,Mixed Team
+3,NELSON LEVY Timna,ISR,JUD,Mixed Team
+3,RISHONY Shira,ISR,JUD,Mixed Team
+3,WAGNER Anna-Maria,GER,JUD,Mixed Team
+3,MENZ Katharina,GER,JUD,Mixed Team
+3,SCOCCIMARRO Giovanna,GER,JUD,Mixed Team
+3,FREY Karl-Richard,GER,JUD,Mixed Team
+3,RESSEL Dominic,GER,JUD,Mixed Team
+3,SEIDL Sebastian,GER,JUD,Mixed Team
+3,WANDTKE Igor,GER,JUD,Mixed Team
+3,FREY Johannes,GER,JUD,Mixed Team
+3,TRIPPEL Eduard,GER,JUD,Mixed Team
+3,TRAJDOS Martyna,GER,JUD,Mixed Team
+3,STOLL Theresa,GER,JUD,Mixed Team
+3,GRABOWSKI Jasmin,GER,JUD,Mixed Team
+1,BLYDE Michaela,NZL,RUG,Women
+1,BROUGHTON Gayle,NZL,RUG,Women
+1,POURI-LANE Risi,NZL,RUG,Women
+1,SAILI Alena,NZL,RUG,Women
+1,KAKA Shiray,NZL,RUG,Women
+1,TUI Ruby,NZL,RUG,Women
+1,FLUHLER Stacey,NZL,RUG,Women
+1,WILLISON Tenika,NZL,RUG,Women
+1,WOODMAN Portia,NZL,RUG,Women
+1,NATHAN-WONG Tyla,NZL,RUG,Women
+1,FITZPATRICK Theresa,NZL,RUG,Women
+1,HIRINI Sarah,NZL,RUG,Women
+1,BRAZIER Kelly,NZL,RUG,Women
+2,BERTRAND Coralie,FRA,RUG,Women
+2,CIOFANI Anne-Cecile,FRA,RUG,Women
+2,DROUIN Caroline,FRA,RUG,Women
+2,GRASSINEAU Camille,FRA,RUG,Women
+2,GUERIN Lina,FRA,RUG,Women
+2,HORTA Fanny,FRA,RUG,Women
+2,IZAR Shannon,FRA,RUG,Women
+2,JACQUET Chloe,FRA,RUG,Women
+2,ULUTULE Jade,FRA,RUG,Women
+2,NEISEN Carla,FRA,RUG,Women
+2,OKEMBA Seraphine,FRA,RUG,Women
+2,PELLE Chloe,FRA,RUG,Women
+3,LIKUCEVA Laisana,FIJ,RUG,Women
+3,ULUNISAU Reapi,FIJ,RUG,Women
+3,ROQICA Ana,FIJ,RUG,Women
+3,NAGASAU Rusila,FIJ,RUG,Women
+3,SOLIKOVITI Vasiti,FIJ,RUG,Women
+3,TINAI Lavenia,FIJ,RUG,Women
+3,NAIMASI Ana Maria,FIJ,RUG,Women
+3,RIWAI Viniana,FIJ,RUG,Women
+3,RADINIYAVUNI Roela,FIJ,RUG,Women
+3,NAKOCI Alowesi,FIJ,RUG,Women
+3,DAVEUA Raijieli,FIJ,RUG,Women
+3,CAVURU Lavena,FIJ,RUG,Women
+3,DONU Sesenieli,FIJ,RUG,Women
+1,BADLOE Kiran,NED,SAL,Men's Windsurfer - RS:X
+2,GOYARD Thomas,FRA,SAL,Men's Windsurfer - RS:X
+3,BI Kun,CHN,SAL,Men's Windsurfer - RS:X
+1,LU Yunxiu,CHN,SAL,Women's Windsurfer - RS:X
+2,PICON Charline,FRA,SAL,Women's Windsurfer - RS:X
+3,WILSON Emma,GBR,SAL,Women's Windsurfer - RS:X
+1,CHRISTEN Nina,SUI,SHO,50m Rifle 3 Positions Women
+2,ZYKOVA Yulia,ROC,SHO,50m Rifle 3 Positions Women
+3,KARIMOVA Yulia,ROC,SHO,50m Rifle 3 Positions Women
+1,FERNANDEZ Alberto,ESP,SHO,Trap Mixed Team
+1,GALVEZ Fatima,ESP,SHO,Trap Mixed Team
+2,PERILLI Alessandra,SMR,SHO,Trap Mixed Team
+2,BERTI Gian Marco,SMR,SHO,Trap Mixed Team
+3,BERNAU Madelynn Ann,USA,SHO,Trap Mixed Team
+3,BURROWS Brian,USA,SHO,Trap Mixed Team
+1,DRESSEL Caeleb,USA,SWM,Men's 100m Butterfly
+2,MILAK Kristof,HUN,SWM,Men's 100m Butterfly
+3,PONTI Noe,SUI,SWM,Men's 100m Butterfly
+1,ANDERSON Freya,GBR,SWM,Mixed 4 x 100m Medley Relay
+1,DAWSON Kathleen,GBR,SWM,Mixed 4 x 100m Medley Relay
+1,GUY James,GBR,SWM,Mixed 4 x 100m Medley Relay
+1,HOPKIN Anna,GBR,SWM,Mixed 4 x 100m Medley Relay
+1,PEATY Adam,GBR,SWM,Mixed 4 x 100m Medley Relay
+2,ZHANG Yufei,CHN,SWM,Mixed 4 x 100m Medley Relay
+2,YANG Junxuan,CHN,SWM,Mixed 4 x 100m Medley Relay
+2,YAN Zibei,CHN,SWM,Mixed 4 x 100m Medley Relay
+2,XU Jiayu,CHN,SWM,Mixed 4 x 100m Medley Relay
+3,TEMPLE Matthew,AUS,SWM,Mixed 4 x 100m Medley Relay
+3,THROSSELL Brianna,AUS,SWM,Mixed 4 x 100m Medley Relay
+3,COOPER Isaac,AUS,SWM,Mixed 4 x 100m Medley Relay
+3,STUBBLETY-COOK Izaac,AUS,SWM,Mixed 4 x 100m Medley Relay
+3,McKEOWN Kaylee,AUS,SWM,Mixed 4 x 100m Medley Relay
+3,McKEON Emma,AUS,SWM,Mixed 4 x 100m Medley Relay
+3,CAMPBELL Bronte,AUS,SWM,Mixed 4 x 100m Medley Relay
+1,McKEOWN Kaylee,AUS,SWM,Women's 200m Backstroke
+2,MASSE Kylie,CAN,SWM,Women's 200m Backstroke
+3,SEEBOHM Emily,AUS,SWM,Women's 200m Backstroke
+1,LEDECKY Kathleen,USA,SWM,Women's 800m Freestyle
+2,TITMUS Ariarne,AUS,SWM,Women's 800m Freestyle
+3,QUADARELLA Simona,ITA,SWM,Women's 800m Freestyle
+3,CARRENO BUSTA Pablo,ESP,TEN,Men's Singles
+3,PEERS John,AUS,TEN,Mixed Doubles
+3,BARTY Ashleigh,AUS,TEN,Mixed Doubles
+3,PIGOSSI Laura,BRA,TEN,Women's Doubles
+3,STEFANI Luisa,BRA,TEN,Women's Doubles
+1,BENCIC Belinda,SUI,TEN,Women's Singles
+2,VONDROUSOVA Marketa,CZE,TEN,Women's Singles
+3,SVITOLINA Elina,UKR,TEN,Women's Singles
+1,LITVINOVICH Ivan,BLR,GTR,Men
+2,DONG Dong,CHN,GTR,Men
+3,SCHMIDT Dylan,NZL,GTR,Men
+1,TAYLOR-BROWN Georgia,GBR,TRI,Mixed Relay
+1,YEE Alex,GBR,TRI,Mixed Relay
+1,BROWNLEE Jonathan,GBR,TRI,Mixed Relay
+1,LEARMONTH Jessica,GBR,TRI,Mixed Relay
+2,ZAFERES Katie,USA,TRI,Mixed Relay
+2,PEARSON Morgan,USA,TRI,Mixed Relay
+2,KNIBB Taylor,USA,TRI,Mixed Relay
+2,McDOWELL Kevin,USA,TRI,Mixed Relay
+3,BEAUGRAND Cassandre,FRA,TRI,Mixed Relay
+3,CONINX Dorian,FRA,TRI,Mixed Relay
+3,LUIS Vincent,FRA,TRI,Mixed Relay
+3,PERIAULT Leonie,FRA,TRI,Mixed Relay
+1,LYU Xiaojun,CHN,WLF,Men's 81kg
+2,BONNAT MICHEL Zacarias,DOM,WLF,Men's 81kg
+3,PIZZOLATO Antonino,ITA,WLF,Men's 81kg
+1,ELBAKH Fares Ibrahim E H,QAT,WLF,Men's 96kg
+2,VALLENILLA SANCHEZ Keydomar Giovan.,VEN,WLF,Men's 96kg
+3,PLIESNOI Anton,GEO,WLF,Men's 96kg
+1,DOLGOPYAT Artem,ISR,GAR,Men's Floor Exercise
+2,ZAPATA Rayderley,ESP,GAR,Men's Floor Exercise
+3,XIAO Ruoteng,CHN,GAR,Men's Floor Exercise
+1,WHITLOCK Max,GBR,GAR,Men's Pommel Horse
+2,LEE Chih Kai,TPE,GAR,Men's Pommel Horse
+3,KAYA Kazuma,JPN,GAR,Men's Pommel Horse
+1,DERWAEL Nina,BEL,GAR,Women's Uneven Bars
+2,ILIANKOVA Anastasiia,ROC,GAR,Women's Uneven Bars
+3,LEE Sunisa,USA,GAR,Women's Uneven Bars
+1,ANDRADE Rebeca,BRA,GAR,Women's Vault
+2,SKINNER Mykayla,USA,GAR,Women's Vault
+3,YEO Seojeong,KOR,GAR,Women's Vault
+1,JACOBS Lamont Marcell,ITA,ATH,Men's 100m
+2,KERLEY Fred,USA,ATH,Men's 100m
+3,de GRASSE Andre,CAN,ATH,Men's 100m
+1,BARSHIM Mutaz Essa,QAT,ATH,Men's High Jump
+1,TAMBERI Gianmarco,ITA,ATH,Men's High Jump
+3,NEDASEKAU Maksim,BLR,ATH,Men's High Jump
+1,GONG Lijiao,CHN,ATH,Women's Shot Put
+2,SAUNDERS Raven,USA,ATH,Women's Shot Put
+3,ADAMS Valerie,NZL,ATH,Women's Shot Put
+1,ROJAS Yulimar,VEN,ATH,Women's Triple Jump
+2,MAMONA Patricia,POR,ATH,Women's Triple Jump
+3,PELETEIRO Ana,ESP,ATH,Women's Triple Jump
+1,CHEN Yu Fei,CHN,BDM,Women's Singles
+2,TAI Tzu-Ying,TPE,BDM,Women's Singles
+3,PUSARLA V. Sindhu,IND,BDM,Women's Singles
+3,ALFONSO DOMINGUEZ Loren Berto,AZE,BOX,Men's Light Heavy (75-81kg)
+3,KHATAEV Imam,ROC,BOX,Men's Light Heavy (75-81kg)
+3,WALSH Aidan,IRL,BOX,Men's Welter (63-69kg)
+3,ZAMKOVOI Andrei,ROC,BOX,Men's Welter (63-69kg)
+1,MARTIN Logan,AUS,BMF,Men's Park
+2,DHERS Daniel,VEN,BMF,Men's Park
+3,BROOKS Declan,GBR,BMF,Men's Park
+1,WORTHINGTON Charlotte,GBR,BMF,Women's Park
+2,ROBERTS Hannah,USA,BMF,Women's Park
+3,DUCARROZ Nikita,SUI,BMF,Women's Park
+1,SHI Tingmao,CHN,DIV,Women's 3m Springboard
+2,WANG Han,CHN,DIV,Women's 3m Springboard
+3,PALMER Krysta,USA,DIV,Women's 3m Springboard
+1,le PECHOUX Erwann,FRA,FEN,Men's Foil Team
+1,LEFORT Enzo,FRA,FEN,Men's Foil Team
+1,MERTINE Julien,FRA,FEN,Men's Foil Team
+1,PAUTY Maxime,FRA,FEN,Men's Foil Team
+2,SAFIN Timur,ROC,FEN,Men's Foil Team
+2,BORODACHEV Kirill,ROC,FEN,Men's Foil Team
+2,BORODACHEV Anton,ROC,FEN,Men's Foil Team
+2,MYLNIKOV Vladislav,ROC,FEN,Men's Foil Team
+3,ITKIN Nick,USA,FEN,Men's Foil Team
+3,IMBODEN Race,USA,FEN,Men's Foil Team
+3,MASSIALAS Alexander,USA,FEN,Men's Foil Team
+3,MEINHARDT Gerek,USA,FEN,Men's Foil Team
+1,SCHAUFFELE Xander,USA,GLF,Men's Individual Stroke Play
+2,SABBATINI Rory,SVK,GLF,Men's Individual Stroke Play
+3,PAN C T,TPE,GLF,Men's Individual Stroke Play
+1,WEARN Matt,AUS,SAL,Men's One Person Dinghy - Laser
+2,STIPANOVIC Tonci,CRO,SAL,Men's One Person Dinghy - Laser
+3,TOMASGAARD Hermann,NOR,SAL,Men's One Person Dinghy - Laser
+1,RINDOM Anne-Marie,DEN,SAL,Women's One Person Dinghy - Laser Radial
+2,OLSSON Josefin,SWE,SAL,Women's One Person Dinghy - Laser Radial
+3,BOUWMEESTER Marit,NED,SAL,Women's One Person Dinghy - Laser Radial
+1,FINKE Robert,USA,SWM,Men's 1500m Freestyle
+2,ROMANCHUK Mykhailo,UKR,SWM,Men's 1500m Freestyle
+3,WELLBROCK Florian,GER,SWM,Men's 1500m Freestyle
+1,ARMSTRONG Joseph,USA,SWM,Men's 4 x 100m Medley Relay
+1,WILSON Andrew,USA,SWM,Men's 4 x 100m Medley Relay
+1,DRESSEL Caeleb,USA,SWM,Men's 4 x 100m Medley Relay
+1,APPLE Zach,USA,SWM,Men's 4 x 100m Medley Relay
+1,SHIELDS Tom,USA,SWM,Men's 4 x 100m Medley Relay
+1,PIERONI Blake,USA,SWM,Men's 4 x 100m Medley Relay
+1,ANDREW Michael,USA,SWM,Men's 4 x 100m Medley Relay
+1,MURPHY Ryan,USA,SWM,Men's 4 x 100m Medley Relay
+2,WILBY James,GBR,SWM,Men's 4 x 100m Medley Relay
+2,SCOTT Duncan,GBR,SWM,Men's 4 x 100m Medley Relay
+2,GREENBANK Luke,GBR,SWM,Men's 4 x 100m Medley Relay
+2,GUY James,GBR,SWM,Men's 4 x 100m Medley Relay
+2,PEATY Adam,GBR,SWM,Men's 4 x 100m Medley Relay
+3,MIRESSI Alessandro,ITA,SWM,Men's 4 x 100m Medley Relay
+3,MARTINENGHI Nicolo,ITA,SWM,Men's 4 x 100m Medley Relay
+3,CECCON Thomas,ITA,SWM,Men's 4 x 100m Medley Relay
+3,BURDISSO Federico,ITA,SWM,Men's 4 x 100m Medley Relay
+1,DRESSEL Caeleb,USA,SWM,Men's 50m Freestyle
+2,MANAUDOU Florent,FRA,SWM,Men's 50m Freestyle
+3,FRATUS Bruno,BRA,SWM,Men's 50m Freestyle
+1,O'CALLAGHAN Mollie,AUS,SWM,Women's 4 x 100m Medley Relay
+1,THROSSELL Brianna,AUS,SWM,Women's 4 x 100m Medley Relay
+1,SEEBOHM Emily,AUS,SWM,Women's 4 x 100m Medley Relay
+1,HODGES Chelsea,AUS,SWM,Women's 4 x 100m Medley Relay
+1,McKEON Emma,AUS,SWM,Women's 4 x 100m Medley Relay
+1,CAMPBELL Cate,AUS,SWM,Women's 4 x 100m Medley Relay
+1,McKEOWN Kaylee,AUS,SWM,Women's 4 x 100m Medley Relay
+2,SMITH Regan,USA,SWM,Women's 4 x 100m Medley Relay
+2,KING Lilly,USA,SWM,Women's 4 x 100m Medley Relay
+2,HUSKE Torri,USA,SWM,Women's 4 x 100m Medley Relay
+2,CURZAN Claire,USA,SWM,Women's 4 x 100m Medley Relay
+2,WEITZEIL Abbey,USA,SWM,Women's 4 x 100m Medley Relay
+2,BROWN Erika,USA,SWM,Women's 4 x 100m Medley Relay
+2,JACOBY Lydia,USA,SWM,Women's 4 x 100m Medley Relay
+2,WHITE Rhyan Elizabeth,USA,SWM,Women's 4 x 100m Medley Relay
+3,RUCK Taylor,CAN,SWM,Women's 4 x 100m Medley Relay
+3,MACNEIL Margaret,CAN,SWM,Women's 4 x 100m Medley Relay
+3,SANCHEZ Kayla,CAN,SWM,Women's 4 x 100m Medley Relay
+3,MASSE Kylie,CAN,SWM,Women's 4 x 100m Medley Relay
+3,PICKREM Sydney,CAN,SWM,Women's 4 x 100m Medley Relay
+3,OLEKSIAK Penny,CAN,SWM,Women's 4 x 100m Medley Relay
+1,McKEON Emma,AUS,SWM,Women's 50m Freestyle
+2,SJOESTROEM Sarah,SWE,SWM,Women's 50m Freestyle
+3,BLUME Pernille,DEN,SWM,Women's 50m Freestyle
+1,ZVEREV Alexander,GER,TEN,Men's Singles
+2,KHACHANOV Karen,ROC,TEN,Men's Singles
+1,RUBLEV Andrey,ROC,TEN,Mixed Doubles
+1,PAVLYUCHENKOVA Anastasia,ROC,TEN,Mixed Doubles
+2,KARATSEV Aslan,ROC,TEN,Mixed Doubles
+2,VESNINA Elena,ROC,TEN,Mixed Doubles
+1,KREJCIKOVA Barbora,CZE,TEN,Women's Doubles
+1,SINIAKOVA Katerina,CZE,TEN,Women's Doubles
+2,BENCIC Belinda,SUI,TEN,Women's Doubles
+2,GOLUBIC Viktorija,SUI,TEN,Women's Doubles
+1,DAJOMES BARRERA Neisi Patricia,ECU,WLF,Women's 76kg
+2,NYE Katherine Elizabeth,USA,WLF,Women's 76kg
+3,FUENTES ZAVALA Aremi,MEX,WLF,Women's 76kg
+1,LIU Yang,CHN,GAR,Men's Rings
+2,YOU Hao,CHN,GAR,Men's Rings
+3,PETROUNIAS Eleftherios,GRE,GAR,Men's Rings
+1,SHIN Jeahwan,KOR,GAR,Men's Vault
+2,ABLIAZIN Denis,ROC,GAR,Men's Vault
+3,DAVTYAN Artur,ARM,GAR,Men's Vault
+1,CAREY Jade,USA,GAR,Women's Floor Exercise
+2,FERRARI Vanessa,ITA,GAR,Women's Floor Exercise
+3,MURAKAMI Mai,JPN,GAR,Women's Floor Exercise
+3,MELNIKOVA Angelina,ROC,GAR,Women's Floor Exercise
+1,EL BAKKALI Soufiane,MAR,ATH,Men's 3000m Steeplechase
+2,GIRMA Lamecha,ETH,ATH,Men's 3000m Steeplechase
+3,KIGEN Benjamin,KEN,ATH,Men's 3000m Steeplechase
+1,TENTOGLOU Miltiadis,GRE,ATH,Men's Long Jump
+2,ECHEVARRIA Juan Miguel,CUB,ATH,Men's Long Jump
+3,MASSO Maykel,CUB,ATH,Men's Long Jump
+1,CAMACHO-QUINN Jasmine,PUR,ATH,Women's 100m Hurdles
+2,HARRISON Kendra,USA,ATH,Women's 100m Hurdles
+3,TAPPER Megan,JAM,ATH,Women's 100m Hurdles
+1,HASSAN Sifan,NED,ATH,Women's 5000m
+2,OBIRI Hellen,KEN,ATH,Women's 5000m
+3,TSEGAY Gudaf,ETH,ATH,Women's 5000m
+1,ALLMAN Valarie,USA,ATH,Women's Discus Throw
+2,PUDENZ Kristin,GER,ATH,Women's Discus Throw
+3,PEREZ Yaime,CUB,ATH,Women's Discus Throw
+1,AXELSEN Viktor,DEN,BDM,Men's Singles
+2,CHEN Long,CHN,BDM,Men's Singles
+3,GINTING Anthony Sinisuka,INA,BDM,Men's Singles
+1,Greysia POLII,INA,BDM,Women's Doubles
+1,RAHAYU Apriyani,INA,BDM,Women's Doubles
+2,CHEN Qing Chen,CHN,BDM,Women's Doubles
+2,JIA Yi Fan,CHN,BDM,Women's Doubles
+3,KIM Soyeong,KOR,BDM,Women's Doubles
+3,KONG Heeyong,KOR,BDM,Women's Doubles
+1,ZHONG Tianshi,CHN,CTR,Women's Team Sprint
+1,BAO Shanju,CHN,CTR,Women's Team Sprint
+2,HINZE Emma,GER,CTR,Women's Team Sprint
+2,FRIEDRICH Lea Sophie,GER,CTR,Women's Team Sprint
+3,VOINOVA Anastasiia,ROC,CTR,Women's Team Sprint
+3,SHMELEVA Daria,ROC,CTR,Women's Team Sprint
+1,KRAJEWSKI Julia,GER,EQU,Eventing Individual
+2,McEWEN Tom,GBR,EQU,Eventing Individual
+3,HOY Andrew,AUS,EQU,Eventing Individual
+1,McEWEN Tom,GBR,EQU,Eventing Team
+1,TOWNEND Oliver,GBR,EQU,Eventing Team
+1,COLLETT Laura,GBR,EQU,Eventing Team
+2,ROSE Shane,AUS,EQU,Eventing Team
+2,McNAB Kevin,AUS,EQU,Eventing Team
+2,HOY Andrew,AUS,EQU,Eventing Team
+3,LAGHOUAG Karim Florent,FRA,EQU,Eventing Team
+3,SIX Christopher,FRA,EQU,Eventing Team
+3,TOUZAINT Nicolas,FRA,EQU,Eventing Team
+1,QUIQUAMPOIX Jean,FRA,SHO,25m Rapid Fire Pistol Men
+2,PUPO Leuris,CUB,SHO,25m Rapid Fire Pistol Men
+3,LI Yuehong,CHN,SHO,25m Rapid Fire Pistol Men
+1,ZHANG Changhong,CHN,SHO,50m Rifle 3 Positions Men
+2,KAMENSKIY Sergey,ROC,SHO,50m Rifle 3 Positions Men
+3,SEBIC Milenko,SRB,SHO,50m Rifle 3 Positions Men
+1,LI Wenwen,CHN,WLF,Women's +87kg
+2,CAMPBELL Emily Jade,GBR,WLF,Women's +87kg
+3,ROBLES Sarah Elizabeth,USA,WLF,Women's +87kg
+1,WANG Zhouyu,CHN,WLF,Women's 87kg
+2,SALAZAR ARCE Tamara Yajaira,ECU,WLF,Women's 87kg
+3,SANTANA PEGUERO Crismery Dominga,DOM,WLF,Women's 87kg
+1,LOPEZ NUNEZ Mijain,CUB,WRE,Men's Greco-Roman 130kg
+2,KAJAIA Iakobi,GEO,WRE,Men's Greco-Roman 130kg
+3,KAYAALP Riza,TUR,WRE,Men's Greco-Roman 130kg
+3,SEMENOV Sergei,ROC,WRE,Men's Greco-Roman 130kg
+1,ORTA SANCHEZ Luis Alberto,CUB,WRE,Men's Greco-Roman 60kg
+2,FUMITA Kenichiro,JPN,WRE,Men's Greco-Roman 60kg
+3,EMELIN Sergey,ROC,WRE,Men's Greco-Roman 60kg
+3,WALIHAN Sailike,CHN,WRE,Men's Greco-Roman 60kg
+1,ROTTER FOCKEN Aline,GER,WRE,Women's Freestyle 76kg
+2,GRAY Adeline Maria,USA,WRE,Women's Freestyle 76kg
+3,ADAR Yasemin,TUR,WRE,Women's Freestyle 76kg
+3,ZHOU Qian,CHN,WRE,Women's Freestyle 76kg
+1,HASHIMOTO Daiki,JPN,GAR,Men's Horizontal Bar
+2,SRBIC Tin,CRO,GAR,Men's Horizontal Bar
+3,NAGORNYY Nikita,ROC,GAR,Men's Horizontal Bar
+1,ZOU Jingyuan,CHN,GAR,Men's Parallel Bars
+2,DAUSER Lukas,GER,GAR,Men's Parallel Bars
+3,ARICAN Ferhat,TUR,GAR,Men's Parallel Bars
+1,GUAN Chenchen,CHN,GAR,Women's Balance Beam
+2,TANG Xijing,CHN,GAR,Women's Balance Beam
+3,BILES Simone,USA,GAR,Women's Balance Beam
+1,WARHOLM Karsten,NOR,ATH,Men's 400m Hurdles
+2,BENJAMIN Rai,USA,ATH,Men's 400m Hurdles
+3,dos SANTOS Alison,BRA,ATH,Men's 400m Hurdles
+1,DUPLANTIS Armand,SWE,ATH,Men's Pole Vault
+2,NILSEN Christopher,USA,ATH,Men's Pole Vault
+3,BRAZ Thiago,BRA,ATH,Men's Pole Vault
+1,THOMPSON-HERAH Elaine,JAM,ATH,Women's 200m
+2,MBOMA Christine,NAM,ATH,Women's 200m
+3,THOMAS Gabrielle,USA,ATH,Women's 200m
+1,MU Athing,USA,ATH,Women's 800m
+2,HODGKINSON Keely,GBR,ATH,Women's 800m
+3,ROGERS Raevyn,USA,ATH,Women's 800m
+1,WLODARCZYK Anita,POL,ATH,Women's Hammer Throw
+2,WANG Zheng,CHN,ATH,Women's Hammer Throw
+3,KOPRON Malwina,POL,ATH,Women's Hammer Throw
+1,MIHAMBO Malaika,GER,ATH,Women's Long Jump
+2,REESE Brittney,USA,ATH,Women's Long Jump
+3,BRUME Ese,NGR,ATH,Women's Long Jump
+3,ALVAREZ Lazaro,CUB,BOX,Men's Feather (52-57kg)
+3,TAKYI Samuel,GHA,BOX,Men's Feather (52-57kg)
+3,NYIKA David,NZL,BOX,Men's Heavy (81-91kg)
+3,TEIXEIRA Abner,BRA,BOX,Men's Heavy (81-91kg)
+1,IGLESIAS Roniel,CUB,BOX,Men's Welter (63-69kg)
+2,McCORMACK Pat,GBR,BOX,Men's Welter (63-69kg)
+1,IRIE Sena,JPN,BOX,Women's Feather (54-57kg)
+2,PETECIO Nesthy,PHI,BOX,Women's Feather (54-57kg)
+1,JORGE ENRIQUEZ Fernando Dayan,CUB,CSP,Men's Canoe Double 1000m
+1,TORRES MADRIGAL Serguey,CUB,CSP,Men's Canoe Double 1000m
+2,LIU Hao,CHN,CSP,Men's Canoe Double 1000m
+2,ZHENG Pengfei,CHN,CSP,Men's Canoe Double 1000m
+3,HECKER Tim,GER,CSP,Men's Canoe Double 1000m
+3,BRENDEL Sebastian,GER,CSP,Men's Canoe Double 1000m
+1,KOPASZ Balint,HUN,CSP,Men's Kayak Single 1000m
+2,VARGA Adam,HUN,CSP,Men's Kayak Single 1000m
+3,PIMENTA Fernando,POR,CSP,Men's Kayak Single 1000m
+1,CARRINGTON Lisa,NZL,CSP,Women's Kayak Double 500m
+1,REGAL Caitlin,NZL,CSP,Women's Kayak Double 500m
+2,PULAWSKA Anna,POL,CSP,Women's Kayak Double 500m
+2,NAJA Karolina,POL,CSP,Women's Kayak Double 500m
+3,KOZAK Danuta,HUN,CSP,Women's Kayak Double 500m
+3,BODONYI Dora,HUN,CSP,Women's Kayak Double 500m
+1,CARRINGTON Lisa,NZL,CSP,Women's Kayak Single 200m
+2,PORTELA Teresa,ESP,CSP,Women's Kayak Single 200m
+3,JORGENSEN Emma Aastrand,DEN,CSP,Women's Kayak Single 200m
+1,van den BERG Roy,NED,CTR,Men's Team Sprint
+1,HOOGLAND Jeffrey,NED,CTR,Men's Team Sprint
+1,BUCHLI Matthijs,NED,CTR,Men's Team Sprint
+1,LAVREYSEN Harrie,NED,CTR,Men's Team Sprint
+2,CARLIN Jack,GBR,CTR,Men's Team Sprint
+2,KENNY Jason,GBR,CTR,Men's Team Sprint
+2,OWENS Ryan,GBR,CTR,Men's Team Sprint
+3,VIGIER Sebastien,FRA,CTR,Men's Team Sprint
+3,HELAL Rayan,FRA,CTR,Men's Team Sprint
+3,GRENGBO Florian,FRA,CTR,Men's Team Sprint
+1,BRENNAUER Lisa,GER,CTR,Women's Team Pursuit
+1,BRAUSSE Franziska,GER,CTR,Women's Team Pursuit
+1,KROEGER Mieke,GER,CTR,Women's Team Pursuit
+1,KLEIN Lisa,GER,CTR,Women's Team Pursuit
+2,ARCHIBALD Katie,GBR,CTR,Women's Team Pursuit
+2,BARKER Elinor,GBR,CTR,Women's Team Pursuit
+2,EVANS Neah,GBR,CTR,Women's Team Pursuit
+2,KENNY Laura,GBR,CTR,Women's Team Pursuit
+2,KNIGHT Josie,GBR,CTR,Women's Team Pursuit
+3,WILLIAMS Lily,USA,CTR,Women's Team Pursuit
+3,DYGERT Chloe,USA,CTR,Women's Team Pursuit
+3,WHITE Emma,USA,CTR,Women's Team Pursuit
+3,VALENTE Jennifer,USA,CTR,Women's Team Pursuit
+3,JASTRAB Megan,USA,CTR,Women's Team Pursuit
+1,XIE Siyi,CHN,DIV,Men's 3m Springboard
+2,WANG Zongyuan,CHN,DIV,Men's 3m Springboard
+3,LAUGHER Jack,GBR,DIV,Men's 3m Springboard
+1,SCOTT Giles,GBR,SAL,Men's One Person Dinghy (Heavyweight) - Finn
+2,BERECZ Zsombor,HUN,SAL,Men's One Person Dinghy (Heavyweight) - Finn
+3,CARDONA MENDEZ Joan,ESP,SAL,Men's One Person Dinghy (Heavyweight) - Finn
+1,BITHELL Stuart,GBR,SAL,Men's Skiff - 49er
+1,FLETCHER Dylan,GBR,SAL,Men's Skiff - 49er
+2,BURLING Peter,NZL,SAL,Men's Skiff - 49er
+2,TUKE Blair,NZL,SAL,Men's Skiff - 49er
+3,HEIL Erik,GER,SAL,Men's Skiff - 49er
+3,PLOESSEL Thomas,GER,SAL,Men's Skiff - 49er
+1,BANTI Caterina,ITA,SAL,Mixed Multihull - Nacra 17 Foiling
+1,TITA Ruggero,ITA,SAL,Mixed Multihull - Nacra 17 Foiling
+2,GIMSON John,GBR,SAL,Mixed Multihull - Nacra 17 Foiling
+2,BURNET Anna,GBR,SAL,Mixed Multihull - Nacra 17 Foiling
+3,STUHLEMMER Alica,GER,SAL,Mixed Multihull - Nacra 17 Foiling
+3,KOHLHOFF Paul,GER,SAL,Mixed Multihull - Nacra 17 Foiling
+1,KUNZE Kahena,BRA,SAL,Women's Skiff - 49er FX
+1,GRAEL Martine,BRA,SAL,Women's Skiff - 49er FX
+2,BEUCKE Susann,GER,SAL,Women's Skiff - 49er FX
+2,LUTZ Tina,GER,SAL,Women's Skiff - 49er FX
+3,BEKKERING Annemiek,NED,SAL,Women's Skiff - 49er FX
+3,DUETZ Annette,NED,SAL,Women's Skiff - 49er FX
+1,DJURAEV Akbar,UZB,WLF,Men's 109kg
+2,MARTIROSYAN Simon,ARM,WLF,Men's 109kg
+3,PLESNIEKS Arturs,LAT,WLF,Men's 109kg
+1,LORINCZ Tamas,HUN,WRE,Men's Greco-Roman 77kg
+2,MAKHMUDOV Akzhol,KGZ,WRE,Men's Greco-Roman 77kg
+3,HUSEYNOV Rafig,AZE,WRE,Men's Greco-Roman 77kg
+3,YABIKU Shohei,JPN,WRE,Men's Greco-Roman 77kg
+1,EVLOEV Musa,ROC,WRE,Men's Greco-Roman 97kg
+2,ALEKSANYAN Artur,ARM,WRE,Men's Greco-Roman 97kg
+3,MICHALIK Tadeusz,POL,WRE,Men's Greco-Roman 97kg
+3,SARAVI Mohammadhadi,IRI,WRE,Men's Greco-Roman 97kg
+1,MENSAH STOCK Tamyra Mariama,USA,WRE,Women's Freestyle 68kg
+2,OBORUDUDU Blessing,NGR,WRE,Women's Freestyle 68kg
+3,CHERKASOVA Alla,UKR,WRE,Women's Freestyle 68kg
+3,ZHUMANAZAROVA Meerim,KGZ,WRE,Women's Freestyle 68kg
+1,KOLESNICHENKO Svetlana,ROC,SWA,Duet
+1,ROMASHINA Svetlana,ROC,SWA,Duet
+2,HUANG Xuechen,CHN,SWA,Duet
+2,SUN Wenyan,CHN,SWA,Duet
+3,SAVCHUK Anastasiya,UKR,SWA,Duet
+3,FIEDINA Marta,UKR,SWA,Duet
+1,de GRASSE Andre,CAN,ATH,Men's 200m
+2,BEDNAREK Kenneth,USA,ATH,Men's 200m
+3,LYLES Noah,USA,ATH,Men's 200m
+1,KORIR Emmanuel Kipkurui,KEN,ATH,Men's 800m
+2,ROTICH Ferguson Cheruiyot,KEN,ATH,Men's 800m
+3,DOBEK Patryk,POL,ATH,Men's 800m
+1,WARNER Damian,CAN,ATH,Men's Decathlon
+2,MAYER Kevin,FRA,ATH,Men's Decathlon
+3,MOLONEY Ashley,AUS,ATH,Men's Decathlon
+1,NOWICKI Wojciech,POL,ATH,Men's Hammer Throw
+2,HENRIKSEN Eivind,NOR,ATH,Men's Hammer Throw
+3,FAJDEK Pawel,POL,ATH,Men's Hammer Throw
+1,CHEMUTAI Peruth,UGA,ATH,Women's 3000m Steeplechase
+2,FRERICHS Courtney,USA,ATH,Women's 3000m Steeplechase
+3,KIYENG Hyvin,KEN,ATH,Women's 3000m Steeplechase
+1,McLAUGHLIN Sydney,USA,ATH,Women's 400m Hurdles
+2,MUHAMMAD Dalilah,USA,ATH,Women's 400m Hurdles
+3,BOL Femke,NED,ATH,Women's 400m Hurdles
+1,THIAM Nafissatou,BEL,ATH,Women's Heptathlon
+2,VETTER Anouk,NED,ATH,Women's Heptathlon
+3,OOSTERWEGEL Emma,NED,ATH,Women's Heptathlon
+1,LOPEZ Arlen,CUB,BOX,Men's Light Heavy (75-81kg)
+2,WHITTAKER Benjamin,GBR,BOX,Men's Light Heavy (75-81kg)
+3,KUNKABAYEV Kamshybek,KAZ,BOX,Men's Super Heavy (+91kg)
+3,CLARKE Frazer,GBR,BOX,Men's Super Heavy (+91kg)
+3,HUANG Hsiao-Wen,TPE,BOX,Women's Fly (48-51kg)
+3,NAMIKI Tsukimi,JPN,BOX,Women's Fly (48-51kg)
+3,BORGOHAIN Lovlina,IND,BOX,Women's Welter (64-69kg)
+3,JONES Oshae,USA,BOX,Women's Welter (64-69kg)
+1,CONSONNI Simone,ITA,CTR,Men's Team Pursuit
+1,GANNA Filippo,ITA,CTR,Men's Team Pursuit
+1,MILAN Jonathan,ITA,CTR,Men's Team Pursuit
+1,LAMON Francesco,ITA,CTR,Men's Team Pursuit
+2,LARSEN Niklas,DEN,CTR,Men's Team Pursuit
+2,MADSEN Frederik,DEN,CTR,Men's Team Pursuit
+2,HANSEN Lasse Norman,DEN,CTR,Men's Team Pursuit
+2,PEDERSEN Rasmus,DEN,CTR,Men's Team Pursuit
+3,O'BRIEN Kelland,AUS,CTR,Men's Team Pursuit
+3,WELSFORD Sam,AUS,CTR,Men's Team Pursuit
+3,PLAPP Lucas,AUS,CTR,Men's Team Pursuit
+3,HOWARD Leigh,AUS,CTR,Men's Team Pursuit
+3,PORTER Alexander,AUS,CTR,Men's Team Pursuit
+1,MAHER Ben,GBR,EQU,Jumping Individual
+2,FREDRICSON Peder,SWE,EQU,Jumping Individual
+3,van der VLEUTEN Maikel,NED,EQU,Jumping Individual
+1,CUNHA Ana Marcela,BRA,OWS,Women's 10km
+2,van ROUWENDAAL Sharon,NED,OWS,Women's 10km
+3,LEE Kareena,AUS,OWS,Women's 10km
+1,RYAN Will,AUS,SAL,Men's Two Person Dinghy - 470
+1,BELCHER Mathew,AUS,SAL,Men's Two Person Dinghy - 470
+2,BERGSTROM Fredrik,SWE,SAL,Men's Two Person Dinghy - 470
+2,DAHLBERG Anton,SWE,SAL,Men's Two Person Dinghy - 470
+3,RODRIGUEZ GARCIA-PAZ Nicolas,ESP,SAL,Men's Two Person Dinghy - 470
+3,XAMMAR Jordi,ESP,SAL,Men's Two Person Dinghy - 470
+1,McINTYRE Eilidh,GBR,SAL,Women's Two Person Dinghy - 470
+1,MILLS Hannah,GBR,SAL,Women's Two Person Dinghy - 470
+2,SKRZYPULEC Agnieszka,POL,SAL,Women's Two Person Dinghy - 470
+2,OGAR Jolanta,POL,SAL,Women's Two Person Dinghy - 470
+3,LECOINTRE Camille,FRA,SAL,Women's Two Person Dinghy - 470
+3,RETORNAZ Aloise,FRA,SAL,Women's Two Person Dinghy - 470
+1,YOSOZUMI Sakura,JPN,SKB,Women's Park
+2,HIRAKI Kokona,JPN,SKB,Women's Park
+3,BROWN Sky,GBR,SKB,Women's Park
+1,TALAKHADZE Lasha,GEO,WLF,Men's +109kg
+2,DAVOUDI Ali,IRI,WLF,Men's +109kg
+3,ASAAD Man,SYR,WLF,Men's +109kg
+1,GERAEI Mohammadreza,IRI,WRE,Men's Greco-Roman 67kg
+2,NASIBOV Parviz,UKR,WRE,Men's Greco-Roman 67kg
+3,ELSAYED Mohamed Ibrahim Elsayed,EGY,WRE,Men's Greco-Roman 67kg
+3,STAEBLER Frank,GER,WRE,Men's Greco-Roman 67kg
+1,BELENIUK Zhan,UKR,WRE,Men's Greco-Roman 87kg
+2,LORINCZ Viktor,HUN,WRE,Men's Greco-Roman 87kg
+3,KUDLA Denis Maksymilian,GER,WRE,Men's Greco-Roman 87kg
+3,DATUNASHVILI Zurabi,SRB,WRE,Men's Greco-Roman 87kg
+1,KAWAI Yukako,JPN,WRE,Women's Freestyle 62kg
+2,TYNYBEKOVA Aisuluu,KGZ,WRE,Women's Freestyle 62kg
+3,KOLIADENKO Iryna,UKR,WRE,Women's Freestyle 62kg
+3,YUSEIN Taybe Mustafa,BUL,WRE,Women's Freestyle 62kg
+1,PARCHMENT Hansle,JAM,ATH,Men's 110m Hurdles
+2,HOLLOWAY Grant,USA,ATH,Men's 110m Hurdles
+3,LEVY Ronald,JAM,ATH,Men's 110m Hurdles
+1,STANO Massimo,ITA,ATH,Men's 20km Race Walk
+2,IKEDA Koki,JPN,ATH,Men's 20km Race Walk
+3,YAMANISHI Toshikazu,JPN,ATH,Men's 20km Race Walk
+1,GARDINER Steven,BAH,ATH,Men's 400m
+2,ZAMBRANO Anthony Jose,COL,ATH,Men's 400m
+3,JAMES Kirani,GRN,ATH,Men's 400m
+1,CROUSER Ryan,USA,ATH,Men's Shot Put
+2,KOVACS Joe,USA,ATH,Men's Shot Put
+3,WALSH Tomas,NZL,ATH,Men's Shot Put
+1,PICHARDO Pedro,POR,ATH,Men's Triple Jump
+2,ZHU Yaming,CHN,ATH,Men's Triple Jump
+3,ZANGO Hugues Fabrice,BUR,ATH,Men's Triple Jump
+1,NAGEOTTE Katie,USA,ATH,Women's Pole Vault
+2,SIDOROVA Anzhelika,ROC,ATH,Women's Pole Vault
+3,BRADSHAW Holly,GBR,ATH,Women's Pole Vault
+1,BATYRGAZIEV Albert,ROC,BOX,Men's Feather (52-57kg)
+2,RAGAN Duke,USA,BOX,Men's Feather (52-57kg)
+3,BIBOSSINOV Saken,KAZ,BOX,Men's Fly (48-52kg)
+3,TANAKA Ryomei,JPN,BOX,Men's Fly (48-52kg)
+3,MARCIAL Eumir,PHI,BOX,Men's Middle (69-75kg)
+3,BAKSHI Gleb,ROC,BOX,Men's Middle (69-75kg)
+3,SEESONDEE Sudaporn,THA,BOX,Women's Light (57-60kg)
+3,POTKONEN Mira Marjut Johanna,FIN,BOX,Women's Light (57-60kg)
+1,van der WESTHUYZEN Jean,AUS,CSP,Men's Kayak Double 1000m
+1,GREEN Thomas,AUS,CSP,Men's Kayak Double 1000m
+2,SCHOPF Jacob,GER,CSP,Men's Kayak Double 1000m
+2,HOFF Max,GER,CSP,Men's Kayak Double 1000m
+3,DOSTAL Josef,CZE,CSP,Men's Kayak Double 1000m
+3,SLOUF Radek,CZE,CSP,Men's Kayak Double 1000m
+1,TOTKA Sandor,HUN,CSP,Men's Kayak Single 200m
+2,RIZZA Manfredi,ITA,CSP,Men's Kayak Single 200m
+3,HEATH Liam,GBR,CSP,Men's Kayak Single 200m
+1,HARRISON Nevin,USA,CSP,Women's Canoe Single 200m
+2,VINCENT-LAPOINTE Laurence,CAN,CSP,Women's Canoe Single 200m
+3,LUZAN Liudmyla,UKR,CSP,Women's Canoe Single 200m
+1,CARRINGTON Lisa,NZL,CSP,Women's Kayak Single 500m
+2,CSIPES Tamara,HUN,CSP,Women's Kayak Single 500m
+3,JORGENSEN Emma Aastrand,DEN,CSP,Women's Kayak Single 500m
+1,WALLS Matthew,GBR,CTR,Men's Omnium
+2,STEWART Campbell,NZL,CTR,Men's Omnium
+3,VIVIANI Elia,ITA,CTR,Men's Omnium
+1,BRASPENNINCX Shanne,NED,CTR,Women's Keirin
+2,ANDREWS Ellesse,NZL,CTR,Women's Keirin
+3,GENEST Lauriane,CAN,CTR,Women's Keirin
+1,QUAN Hongchan,CHN,DIV,Women's 10m Platform
+2,CHEN Yuxi,CHN,DIV,Women's 10m Platform
+3,WU Melissa,AUS,DIV,Women's 10m Platform
+1,BOCCARD Gauthier,BEL,HOC,Men
+1,de KERPEL Nicolas,BEL,HOC,Men
+1,de SLOOVER Arthur Anne-Marie Thierr,BEL,HOC,Men
+1,HENDRICKX Alexander Robby P,BEL,HOC,Men
+1,LUYPAERT Loick Fanny A,BEL,HOC,Men
+1,van AUBEL Florent,BEL,HOC,Men
+1,VANASCH Vincent,BEL,HOC,Men
+1,BOON Tom Alain,BEL,HOC,Men
+1,BRIELS Thomas,BEL,HOC,Men
+1,CHARLIER Cedric Daniel Andre,BEL,HOC,Men
+1,DENAYER Felix Veronique B.,BEL,HOC,Men
+1,DOCKIER Sebastien,BEL,HOC,Men
+1,GOUGNARD Simon Pierre F,BEL,HOC,Men
+1,KINA Antoine Sylvain T,BEL,HOC,Men
+1,MEURMANS Augustin Jean J,BEL,HOC,Men
+1,WEGNEZ Victor Nicky B,BEL,HOC,Men
+1,van DOREN Arthur,BEL,HOC,Men
+1,DOHMEN John-John Dominique M,BEL,HOC,Men
+2,CHARTER Andrew Lewis,AUS,HOC,Men
+2,MITTON Trent Grant,AUS,HOC,Men
+2,OCKENDEN Edward Clive,AUS,HOC,Men
+2,WHETTON Jacob Thomas,AUS,HOC,Men
+2,ZALEWSKI Aran,AUS,HOC,Men
+2,BEALE Daniel James,AUS,HOC,Men
+2,WICKHAM Tom Joseph,AUS,HOC,Men
+2,DAWSON Matthew,AUS,HOC,Men
+2,BRAND Tim,AUS,HOC,Men
+2,GOVERS Blake,AUS,HOC,Men
+2,OGILVIE Flynn Andrew,AUS,HOC,Men
+2,CRAIG Thomas William,AUS,HOC,Men
+2,HOWARD Tim,AUS,HOC,Men
+2,BELTZ Joshua,AUS,HOC,Men
+2,HAYWARD Jeremy Thomas,AUS,HOC,Men
+2,SHARP Lachlan Thomas,AUS,HOC,Men
+2,SIMMONDS Joshua,AUS,HOC,Men
+2,MARTIN Dylan,AUS,HOC,Men
+3,PARATTU RAVEENDRAN Sreejesh,IND,HOC,Men
+3,SINGH Harmanpreet,IND,HOC,Men
+3,LAKRA Birendra,IND,HOC,Men
+3,KUMAR Surender,IND,HOC,Men
+3,ROHIDAS Amit,IND,HOC,Men
+3,KUMAR Varun,IND,HOC,Men
+3,SINGH Rupinder Pal,IND,HOC,Men
+3,SINGH Manpreet,IND,HOC,Men
+3,SUMIT,IND,HOC,Men
+3,SHARMA Nilakanta,IND,HOC,Men
+3,SINGH Hardik,IND,HOC,Men
+3,PRASAD Vivek Sagar,IND,HOC,Men
+3,SINGH Mandeep,IND,HOC,Men
+3,SINGH Shamsher,IND,HOC,Men
+3,UPADHYAY Lalit Kumar,IND,HOC,Men
+3,SINGH Simranjeet,IND,HOC,Men
+3,SINGH Dilpreet,IND,HOC,Men
+3,SINGH Gurjant,IND,HOC,Men
+1,da COSTA Steven,FRA,KTE,Men's Kumite -67kg
+2,SAMDAN Eray,TUR,KTE,Men's Kumite -67kg
+3,ALMASATFA Abdel Rahman,JOR,KTE,Men's Kumite -67kg
+3,ASSADILOV Darkhan,KAZ,KTE,Men's Kumite -67kg
+1,SANCHEZ JAIME Sandra,ESP,KTE,Women's Kata
+2,SHIMIZU Kiyou,JPN,KTE,Women's Kata
+3,LAU Mo Sheung Grace,HKG,KTE,Women's Kata
+3,BOTTARO Viviana,ITA,KTE,Women's Kata
+1,GORANOVA Ivet,BUL,KTE,Women's Kumite -55kg
+2,TERLIUGA Anzhelika,UKR,KTE,Women's Kumite -55kg
+3,PLANK Bettina,AUT,KTE,Women's Kumite -55kg
+3,WEN Tzuyun,TPE,KTE,Women's Kumite -55kg
+1,WELLBROCK Florian,GER,OWS,Men's 10km
+2,RASOVSZKY Kristof,HUN,OWS,Men's 10km
+3,PALTRINIERI Gregorio,ITA,OWS,Men's 10km
+1,PALMER Keegan,AUS,SKB,Men's Park
+2,BARROS Pedro,BRA,SKB,Men's Park
+3,JUNEAU Cory,USA,SKB,Men's Park
+1,GINES LOPEZ Alberto,ESP,CLB,Men's Combined
+2,COLEMAN Nathaniel,USA,CLB,Men's Combined
+3,SCHUBERT Jakob,AUT,CLB,Men's Combined
+1,CHEN Meng,CHN,TTE,Women's Team
+1,SUN Yingsha,CHN,TTE,Women's Team
+1,WANG Manyu,CHN,TTE,Women's Team
+2,ISHIKAWA Kasumi,JPN,TTE,Women's Team
+2,HIRANO Miu,JPN,TTE,Women's Team
+2,ITO Mima,JPN,TTE,Women's Team
+3,DOO Hoi Kem,HKG,TTE,Women's Team
+3,LEE Ho Ching,HKG,TTE,Women's Team
+3,SOO Wai Yam Minnie,HKG,TTE,Women's Team
+1,UGUEV Zavur,ROC,WRE,Men's Freestyle 57kg
+2,RAVI Kumar,IND,WRE,Men's Freestyle 57kg
+3,SANAYEV Nurislam,KAZ,WRE,Men's Freestyle 57kg
+3,GILMAN Thomas Patrick,USA,WRE,Men's Freestyle 57kg
+1,TAYLOR III David Morris,USA,WRE,Men's Freestyle 86kg
+2,YAZDANICHARATI Hassan,IRI,WRE,Men's Freestyle 86kg
+3,AMINE Myles Nazem,SMR,WRE,Men's Freestyle 86kg
+3,NAIFONOV Artur,ROC,WRE,Men's Freestyle 86kg
+1,KAWAI Risako,JPN,WRE,Women's Freestyle 57kg
+2,KURACHKINA Iryna,BLR,WRE,Women's Freestyle 57kg
+3,NIKOLOVA Evelina Georgieva,BUL,WRE,Women's Freestyle 57kg
+3,MAROULIS Helen Louise,USA,WRE,Women's Freestyle 57kg
+1,JACOBS Lamont Marcell,ITA,ATH,Men's 4 x 100m Relay
+1,TORTU Filippo,ITA,ATH,Men's 4 x 100m Relay
+1,DESALU Eseosa Fostine,ITA,ATH,Men's 4 x 100m Relay
+1,PATTA Lorenzo,ITA,ATH,Men's 4 x 100m Relay
+2,MITCHELL-BLAKE Nethaneel,GBR,ATH,Men's 4 x 100m Relay
+2,KILTY Richard,GBR,ATH,Men's 4 x 100m Relay
+2,UJAH Chijindu,GBR,ATH,Men's 4 x 100m Relay
+2,HUGHES Zharnel,GBR,ATH,Men's 4 x 100m Relay
+3,RODNEY Brendon,CAN,ATH,Men's 4 x 100m Relay
+3,de GRASSE Andre,CAN,ATH,Men's 4 x 100m Relay
+3,BLAKE Jerome,CAN,ATH,Men's 4 x 100m Relay
+3,BROWN Aaron,CAN,ATH,Men's 4 x 100m Relay
+1,CHEPTEGEI Joshua,UGA,ATH,Men's 5000m
+2,AHMED Mohammed,CAN,ATH,Men's 5000m
+3,CHELIMO Paul,USA,ATH,Men's 5000m
+1,TOMALA Dawid,POL,ATH,Men's 50km Race Walk
+2,HILBERT Jonathan,GER,ATH,Men's 50km Race Walk
+3,DUNFEE Evan,CAN,ATH,Men's 50km Race Walk
+1,KIPYEGON Faith,KEN,ATH,Women's 1500m
+2,MUIR Laura,GBR,ATH,Women's 1500m
+3,HASSAN Sifan,NED,ATH,Women's 1500m
+1,PALMISANO Antonella,ITA,ATH,Women's 20km Race Walk
+2,ARENAS Sandra Lorena,COL,ATH,Women's 20km Race Walk
+3,LIU Hong,CHN,ATH,Women's 20km Race Walk
+1,MORRISON Natasha,JAM,ATH,Women's 4 x 100m Relay
+1,BURCHELL Remona,JAM,ATH,Women's 4 x 100m Relay
+1,THOMPSON-HERAH Elaine,JAM,ATH,Women's 4 x 100m Relay
+1,WILLIAMS Briana,JAM,ATH,Women's 4 x 100m Relay
+1,JACKSON Shericka,JAM,ATH,Women's 4 x 100m Relay
+1,FRASER-PRYCE Shelly-Ann,JAM,ATH,Women's 4 x 100m Relay
+2,DANIELS Teahna,USA,ATH,Women's 4 x 100m Relay
+2,THOMAS Gabrielle,USA,ATH,Women's 4 x 100m Relay
+2,GARDNER English,USA,ATH,Women's 4 x 100m Relay
+2,OLIVER Javianne,USA,ATH,Women's 4 x 100m Relay
+2,PRANDINI Jenna,USA,ATH,Women's 4 x 100m Relay
+2,HOBBS Aleia,USA,ATH,Women's 4 x 100m Relay
+3,LANSIQUOT Imani,GBR,ATH,Women's 4 x 100m Relay
+3,NEITA Daryll,GBR,ATH,Women's 4 x 100m Relay
+3,PHILIP Asha,GBR,ATH,Women's 4 x 100m Relay
+3,ASHER-SMITH Dina,GBR,ATH,Women's 4 x 100m Relay
+1,MILLER-UIBO Shaunae,BAH,ATH,Women's 400m
+2,PAULINO Marileidy,DOM,ATH,Women's 400m
+3,FELIX Allyson,USA,ATH,Women's 400m
+1,LIU Shiying,CHN,ATH,Women's Javelin Throw
+2,ANDREJCZYK Maria,POL,ATH,Women's Javelin Throw
+3,BARBER Kelsey-Lee,AUS,ATH,Women's Javelin Throw
+1,KLINEMAN Alix,USA,VBV,Women
+1,ROSS April,USA,VBV,Women
+2,CLANCY Taliqua,AUS,VBV,Women
+2,ARTACHO del SOLAR Mariafe,AUS,VBV,Women
+3,HEIDRICH Joana,SUI,VBV,Women
+3,VERGE-DEPRE Anouk,SUI,VBV,Women
+1,la CRUZ Julio,CUB,BOX,Men's Heavy (81-91kg)
+2,GADZHIMAGOMEDOV Muslim,ROC,BOX,Men's Heavy (81-91kg)
+3,GARSIDE Harry,AUS,BOX,Men's Light (57-63kg)
+3,BACHKOV Hovhannes,ARM,BOX,Men's Light (57-63kg)
+3,FONTIJN Nouchka,NED,BOX,Women's Middle (69-75kg)
+3,MAGOMEDALIEVA Zenfira,ROC,BOX,Women's Middle (69-75kg)
+1,LAVREYSEN Harrie,NED,CTR,Men's Sprint
+2,HOOGLAND Jeffrey,NED,CTR,Men's Sprint
+3,CARLIN Jack,GBR,CTR,Men's Sprint
+1,ARCHIBALD Katie,GBR,CTR,Women's Madison
+1,KENNY Laura,GBR,CTR,Women's Madison
+2,DIDERIKSEN Amalie,DEN,CTR,Women's Madison
+2,LETH Julie,DEN,CTR,Women's Madison
+3,NOVOLODSKAIA Mariia,ROC,CTR,Women's Madison
+3,KHATUNTSEVA Gulnaz,ROC,CTR,Women's Madison
+1,BECKIE Janine,CAN,FBL,Women
+1,BUCHANAN Kadeisha,CAN,FBL,Women
+1,CARLE Gabrielle,CAN,FBL,Women
+1,CHAPMAN Allysha,CAN,FBL,Women
+1,FLEMING Jessie,CAN,FBL,Women
+1,GILLES Vanessa,CAN,FBL,Women
+1,GROSSO Julia,CAN,FBL,Women
+1,HUITEMA Jordyn,CAN,FBL,Women
+1,LABBE Stephanie,CAN,FBL,Women
+1,LAWRENCE Ashley,CAN,FBL,Women
+1,LEON Adriana,CAN,FBL,Women
+1,McLEOD Erin,CAN,FBL,Women
+1,PRINCE Nichelle,CAN,FBL,Women
+1,QUINN,CAN,FBL,Women
+1,RIVIERE Jayde,CAN,FBL,Women
+1,ROSE Deanne,CAN,FBL,Women
+1,SCHMIDT Sophie,CAN,FBL,Women
+1,SCOTT Desiree,CAN,FBL,Women
+1,SHERIDAN Kailen,CAN,FBL,Women
+1,SINCLAIR Christine,CAN,FBL,Women
+1,VIENS Evelyne,CAN,FBL,Women
+1,ZADORSKY Shelina,CAN,FBL,Women
+2,ILESTEDT Amanda,SWE,FBL,Women
+2,ANVEGARD Anna,SWE,FBL,Women
+2,SEGER Caroline,SWE,FBL,Women
+2,KULLBERG Emma,SWE,FBL,Women
+2,ANGELDAL Filippa,SWE,FBL,Women
+2,ROLFO Fridolina,SWE,FBL,Women
+2,BENNISON Hanna,SWE,FBL,Women
+2,GLAS Hanna,SWE,FBL,Women
+2,LINDAHL Hedvig,SWE,FBL,Women
+2,FALK Jennifer,SWE,FBL,Women
+2,ANDERSSON Jonna,SWE,FBL,Women
+2,RODDAR Julia,SWE,FBL,Women
+2,ASLLANI Kosovare,SWE,FBL,Women
+2,HURTIG Lina,SWE,FBL,Women
+2,JANOGY Madelen,SWE,FBL,Women
+2,ERIKSSON Magdalena,SWE,FBL,Women
+2,BJORN Nathalie,SWE,FBL,Women
+2,SCHOUGH Olivia,SWE,FBL,Women
+2,BLOMQVIST Rebecka,SWE,FBL,Women
+2,JAKOBSSON Sofia,SWE,FBL,Women
+2,BLACKSTENIUS Stina,SWE,FBL,Women
+2,MUSOVIC Zecira,SWE,FBL,Women
+3,MORGAN Alex,USA,FBL,Women
+3,DAHLKEMPER Abby,USA,FBL,Women
+3,FRANCH Adrianna,USA,FBL,Women
+3,NAEHER Alyssa,USA,FBL,Women
+3,CAMPBELL Jane,USA,FBL,Women
+3,LLOYD Carli,USA,FBL,Women
+3,MACARIO Catarina,USA,FBL,Women
+3,PRESS Christen,USA,FBL,Women
+3,KRUEGER Casey,USA,FBL,Women
+3,DUNN Crystal,USA,FBL,Women
+3,SONNETT Emily,USA,FBL,Women
+3,ERTZ Julie,USA,FBL,Women
+3,MEWIS Kristie,USA,FBL,Women
+3,O'HARA Kelley,USA,FBL,Women
+3,HORAN Lindsey,USA,FBL,Women
+3,WILLIAMS Lynn,USA,FBL,Women
+3,RAPINOE Megan,USA,FBL,Women
+3,LAVELLE Rose,USA,FBL,Women
+3,SAUERBRUNN Becky,USA,FBL,Women
+3,MEWIS Samantha,USA,FBL,Women
+3,DAVIDSON Tierna,USA,FBL,Women
+3,HEATH Tobin,USA,FBL,Women
+1,MATLA Frederique,NED,HOC,Women
+1,NUNNINK Laura Maria,NED,HOC,Women
+1,PHENINCKX Malou,NED,HOC,Women
+1,SANDERS Pien,NED,HOC,Women
+1,STAM Lauren Lara Jeanette,NED,HOC,Women
+1,van GEFFEN Margot,NED,HOC,Women
+1,van MAASAKKER Caia Jacqueline,NED,HOC,Women
+1,VERSCHOOR Maria,NED,HOC,Women
+1,WELTEN Lidewij Marsia Maria,NED,HOC,Women
+1,ALBERS Felice,NED,HOC,Women
+1,de GOEDE Eva Roma Maria,NED,HOC,Women
+1,de WAARD Xan Gerdien,NED,HOC,Women
+1,KEETELS Marloes Johanna Maria,NED,HOC,Women
+1,KONING Josine,NED,HOC,Women
+1,KOOLEN Sanne Anne Leonie,NED,HOC,Women
+1,LEURINK Laurien,NED,HOC,Women
+2,SUCCI Maria Belen,ARG,HOC,Women
+2,ALONSO Agostina,ARG,HOC,Women
+2,ALBERTARRIO Agustina,ARG,HOC,Women
+2,MERINO Delfina,ARG,HOC,Women
+2,GRANATTO Maria Jose,ARG,HOC,Women
+2,JANKUNAS Julieta,ARG,HOC,Women
+2,RETEGUI Micaela,ARG,HOC,Women
+2,TOCCALINO Sofia,ARG,HOC,Women
+2,SAUZE VALDEZ Victoria,ARG,HOC,Women
+2,COSTA BIONDI Valentina Isabel,ARG,HOC,Women
+2,GRANATTO Maria Victoria,ARG,HOC,Women
+2,TRINCHINETTI Eugenia Maria,ARG,HOC,Women
+2,GORZELANY Agustina,ARG,HOC,Women
+2,FORCHERIO Maria Emilia,ARG,HOC,Women
+2,BARRIONUEVO Maria Noel,ARG,HOC,Women
+2,SANCHEZ MOCCIA Rocio,ARG,HOC,Women
+2,MACCARI Sofia,ARG,HOC,Women
+2,RAPOSO RUIZ de los LLANOS Valentina,ARG,HOC,Women
+3,ANSLEY Giselle,GBR,HOC,Women
+3,BALSDON Grace,GBR,HOC,Women
+3,CRACKLES Fiona Anne,GBR,HOC,Women
+3,HINCH Madeleine Claire,GBR,HOC,Women
+3,JONES Sarah Louise,GBR,HOC,Women
+3,MARTIN Hannah,GBR,HOC,Women
+3,McCALLIN Shona,GBR,HOC,Women
+3,OWSLEY Lily,GBR,HOC,Women
+3,PEARNE-WEBB Hollie,GBR,HOC,Women
+3,PETTER Isabelle,GBR,HOC,Women
+3,RAYER Elena Sian,GBR,HOC,Women
+3,ROBERTSON Sarah,GBR,HOC,Women
+3,TOMAN Anna-Frances,GBR,HOC,Women
+3,TOWNSEND Susannah,GBR,HOC,Women
+3,UNSWORTH Laura,GBR,HOC,Women
+3,WILKINSON Leah Julia,GBR,HOC,Women
+1,KIYUNA Ryo,JPN,KTE,Men's Kata
+2,QUINTERO Damian,ESP,KTE,Men's Kata
+3,SOFUOGLU Ali,TUR,KTE,Men's Kata
+3,TORRES GUTIERREZ Ariel,USA,KTE,Men's Kata
+1,BUSA Luigi,ITA,KTE,Men's Kumite -75kg
+2,AGHAYEV Rafael,AZE,KTE,Men's Kumite -75kg
+3,HARSPATAKI Karoly Gabor,HUN,KTE,Men's Kumite -75kg
+3,HORUNA Stanislav,UKR,KTE,Men's Kumite -75kg
+1,PREKOVIC Jovana,SRB,KTE,Women's Kumite -61kg
+2,YIN Xiaoyan,CHN,KTE,Women's Kumite -61kg
+3,LOTFY Giana,EGY,KTE,Women's Kumite -61kg
+3,COBAN Merve,TUR,KTE,Women's Kumite -61kg
+1,FRENCH Kate,GBR,MPN,Women's Individual
+2,ASADAUSKAITE Laura,LTU,MPN,Women's Individual
+3,KOVACS Sarolta,HUN,MPN,Women's Individual
+1,GARNBRET Janja,SLO,CLB,Women's Combined
+2,NONAKA Miho,JPN,CLB,Women's Combined
+3,NOGUCHI Akiyo,JPN,CLB,Women's Combined
+1,MA Long,CHN,TTE,Men's Team
+1,XU Xin,CHN,TTE,Men's Team
+1,FAN Zhendong,CHN,TTE,Men's Team
+2,OVTCHAROV Dimitrij,GER,TTE,Men's Team
+2,BOLL Timo,GER,TTE,Men's Team
+2,FRANZISKA Patrick,GER,TTE,Men's Team
+3,NIWA Koki,JPN,TTE,Men's Team
+3,HARIMOTO Tomokazu,JPN,TTE,Men's Team
+3,MIZUTANI Jun,JPN,TTE,Men's Team
+1,STEVESON Gable Dan,USA,WRE,Men's Freestyle 125kg
+2,PETRIASHVILI Geno,GEO,WRE,Men's Freestyle 125kg
+3,ZARE Amir Hossein,IRI,WRE,Men's Freestyle 125kg
+3,AKGUL Taha,TUR,WRE,Men's Freestyle 125kg
+1,SIDAKOV Zaurbek,ROC,WRE,Men's Freestyle 74kg
+2,KADZIMAHAMEDAU Mahamedkhabib,BLR,WRE,Men's Freestyle 74kg
+3,DAKE Kyle Douglas,USA,WRE,Men's Freestyle 74kg
+3,ABDURAKHMONOV Bekzod,UZB,WRE,Men's Freestyle 74kg
+1,MUKAIDA Mayu,JPN,WRE,Women's Freestyle 53kg
+2,PANG Qianyu,CHN,WRE,Women's Freestyle 53kg
+3,KALADZINSKAYA Vanesa,BLR,WRE,Women's Freestyle 53kg
+3,BAT OCHIR Bolortuya,MGL,WRE,Women's Freestyle 53kg
+1,ROMASHINA Svetlana,ROC,SWA,Team
+1,KOLESNICHENKO Svetlana,ROC,SWA,Team
+1,PATSKEVICH Aleksandra,ROC,SWA,Team
+1,SHISHKINA Alla,ROC,SWA,Team
+1,CHIGIREVA Vlada,ROC,SWA,Team
+1,GOLIADKINA Marina,ROC,SWA,Team
+1,KOMAR Polina,ROC,SWA,Team
+1,SHUROCHKINA Maria,ROC,SWA,Team
+2,SUN Wenyan,CHN,SWA,Team
+2,FENG Yu,CHN,SWA,Team
+2,HUANG Xuechen,CHN,SWA,Team
+2,GUO Li,CHN,SWA,Team
+2,LIANG Xinping,CHN,SWA,Team
+2,YIN Chengxin,CHN,SWA,Team
+2,XIAO Yanning,CHN,SWA,Team
+2,WANG Qianyi,CHN,SWA,Team
+3,FIEDINA Marta,UKR,SWA,Team
+3,YAKHNO Yelyzaveta,UKR,SWA,Team
+3,ALEKSIIVA Vladyslava,UKR,SWA,Team
+3,ALEKSIIVA Maryna,UKR,SWA,Team
+3,REZNIK Kateryna,UKR,SWA,Team
+3,SHYNKARENKO Alina,UKR,SWA,Team
+3,SYDORENKO Kseniya,UKR,SWA,Team
+3,SAVCHUK Anastasiya,UKR,SWA,Team
+1,INGEBRIGTSEN Jakob,NOR,ATH,Men's 1500m
+2,CHERUIYOT Timothy,KEN,ATH,Men's 1500m
+3,KERR Josh,GBR,ATH,Men's 1500m
+1,ROSS Randolph,USA,ATH,Men's 4 x 400m Relay
+1,BENJAMIN Rai,USA,ATH,Men's 4 x 400m Relay
+1,STEWART Trevor,USA,ATH,Men's 4 x 400m Relay
+1,NORWOOD Vernon,USA,ATH,Men's 4 x 400m Relay
+1,DEADMON Bryce,USA,ATH,Men's 4 x 400m Relay
+1,CHERRY Michael,USA,ATH,Men's 4 x 400m Relay
+1,NORMAN Michael,USA,ATH,Men's 4 x 400m Relay
+2,van DIEPEN Tony,NED,ATH,Men's 4 x 400m Relay
+2,AGARD Terrence,NED,ATH,Men's 4 x 400m Relay
+2,ANGELA Ramsey,NED,ATH,Men's 4 x 400m Relay
+2,BONEVACIA Liemarvin,NED,ATH,Men's 4 x 400m Relay
+2,DOBBER Jochem,NED,ATH,Men's 4 x 400m Relay
+3,MAKWALA Isaac,BOT,ATH,Men's 4 x 400m Relay
+3,NGOZI Zibane,BOT,ATH,Men's 4 x 400m Relay
+3,THEBE Baboloki,BOT,ATH,Men's 4 x 400m Relay
+3,NDORI Bayapo,BOT,ATH,Men's 4 x 400m Relay
+1,CHOPRA Neeraj,IND,ATH,Men's Javelin Throw
+2,VADLEJCH Jakub,CZE,ATH,Men's Javelin Throw
+3,VESELY Vitezslav,CZE,ATH,Men's Javelin Throw
+1,HASSAN Sifan,NED,ATH,"Women's 10,000m"
+2,GEZAHEGNE Kalkidan,BRN,ATH,"Women's 10,000m"
+3,GIDEY Letesenbet,ETH,ATH,"Women's 10,000m"
+1,WHITNEY Kaylin,USA,ATH,Women's 4 x 400m Relay
+1,ELLIS Kendall,USA,ATH,Women's 4 x 400m Relay
+1,MUHAMMAD Dalilah,USA,ATH,Women's 4 x 400m Relay
+1,McLAUGHLIN Sydney,USA,ATH,Women's 4 x 400m Relay
+1,IRBY Lynna,USA,ATH,Women's 4 x 400m Relay
+1,JONATHAS Wadeline,USA,ATH,Women's 4 x 400m Relay
+1,MU Athing,USA,ATH,Women's 4 x 400m Relay
+1,FELIX Allyson,USA,ATH,Women's 4 x 400m Relay
+2,HOLUB-KOWALIK Malgorzata,POL,ATH,Women's 4 x 400m Relay
+2,KIELBASINSKA Anna,POL,ATH,Women's 4 x 400m Relay
+2,SWIETY-ERSETIC Justyna,POL,ATH,Women's 4 x 400m Relay
+2,BAUMGART-WITAN Iga,POL,ATH,Women's 4 x 400m Relay
+2,KACZMAREK Natalia,POL,ATH,Women's 4 x 400m Relay
+3,BROMFIELD Junelle,JAM,ATH,Women's 4 x 400m Relay
+3,JACKSON Shericka,JAM,ATH,Women's 4 x 400m Relay
+3,RUSSELL Janieve,JAM,ATH,Women's 4 x 400m Relay
+3,WILLIAMS Stacey Ann,JAM,ATH,Women's 4 x 400m Relay
+3,McGREGOR Roneisha,JAM,ATH,Women's 4 x 400m Relay
+3,McLEOD Candice,JAM,ATH,Women's 4 x 400m Relay
+1,LASITSKENE Mariya,ROC,ATH,Women's High Jump
+2,McDERMOTT Nicola,AUS,ATH,Women's High Jump
+3,MAHUCHIKH Yaroslava,UKR,ATH,Women's High Jump
+1,JEPCHIRCHIR Peres,KEN,ATH,Women's Marathon
+2,KOSGEI Brigid,KEN,ATH,Women's Marathon
+3,SEIDEL Molly,USA,ATH,Women's Marathon
+1,SAKAMOTO Hayato,JPN,BSB,Baseball
+1,YAMASAKI Yasuaki,JPN,BSB,Baseball
+1,IWAZAKI Suguru,JPN,BSB,Baseball
+1,UMENO Ryutaro,JPN,BSB,Baseball
+1,MORISHITA Masato,JPN,BSB,Baseball
+1,KIKUCHI Ryosuke,JPN,BSB,Baseball
+1,SUZUKI Seiya,JPN,BSB,Baseball
+1,OHNO Yudai,JPN,BSB,Baseball
+1,YAMADA Tetsuto,JPN,BSB,Baseball
+1,MURAKAMI Munetaka,JPN,BSB,Baseball
+1,GENDA Sosuke,JPN,BSB,Baseball
+1,TAIRA Kaima,JPN,BSB,Baseball
+1,SENGA Koudai,JPN,BSB,Baseball
+1,KAI Takuya,JPN,BSB,Baseball
+1,YANAGITA Yuki,JPN,BSB,Baseball
+1,KONDOH Kensuke,JPN,BSB,Baseball
+1,ASAMURA Hideto,JPN,BSB,Baseball
+1,YAMAMOTO Yoshinobu,JPN,BSB,Baseball
+1,YOSHIDA Masataka,JPN,BSB,Baseball
+1,AOYAGI Koyo,JPN,BSB,Baseball
+1,KURIBAYASHI Ryoji,JPN,BSB,Baseball
+1,KURIHARA Ryoya,JPN,BSB,Baseball
+1,ITOH Hiromi,JPN,BSB,Baseball
+1,TANAKA Masahiro,JPN,BSB,Baseball
+2,CARTER Anthony,USA,BSB,Baseball
+2,DICKSON Brandon,USA,BSB,Baseball
+2,ROBERTSON David,USA,BSB,Baseball
+2,ALVAREZ Eddy,USA,BSB,Baseball
+2,JACKSON JR Edwin,USA,BSB,Baseball
+2,MARTINEZ Nick,USA,BSB,Baseball
+2,FRAZIER Todd,USA,BSB,Baseball
+2,CASAS Triston,USA,BSB,Baseball
+2,FILIA Eric,USA,BSB,Baseball
+2,FEDEROWICZ Tim,USA,BSB,Baseball
+2,ALLEN Nick,USA,BSB,Baseball
+2,WESTBROOK Jamie,USA,BSB,Baseball
+2,KOLOZSVARY Mark,USA,BSB,Baseball
+2,AUSTIN Tyler,USA,BSB,Baseball
+2,WOODS RICHARDSON Simeon,USA,BSB,Baseball
+2,RYAN Joe,USA,BSB,Baseball
+2,BAZ Shane,USA,BSB,Baseball
+2,STARLING Bubba,USA,BSB,Baseball
+2,LOPEZ Jack,USA,BSB,Baseball
+2,GOSE Anthony,USA,BSB,Baseball
+2,KAZMIR Scott,USA,BSB,Baseball
+2,McGOUGH Scott,USA,BSB,Baseball
+2,KIVLEHAN Patrick,USA,BSB,Baseball
+2,RYAN Ryder,USA,BSB,Baseball
+3,GARCIA Junior,DOM,BSB,Baseball
+3,CASTILLO Luis,DOM,BSB,Baseball
+3,MIESES Johan,DOM,BSB,Baseball
+3,RODRIGUEZ Julio,DOM,BSB,Baseball
+3,ROSSO Ramon,DOM,BSB,Baseball
+3,VALDES Raul,DOM,BSB,Baseball
+3,BALDWIN Roldani,DOM,BSB,Baseball
+3,SANCHEZ Angel,DOM,BSB,Baseball
+3,MERCEDES Cristopher,DOM,BSB,Baseball
+3,ALVAREZ Dario,DOM,BSB,Baseball
+3,ARIAS Gabriel,DOM,BSB,Baseball
+3,ASENCIO Jairo,DOM,BSB,Baseball
+3,CABRERA Melky,DOM,BSB,Baseball
+3,PEREZ Yefri,DOM,BSB,Baseball
+3,MARINEZ Jhan,DOM,BSB,Baseball
+3,NUNEZ Gustavo,DOM,BSB,Baseball
+3,VALERIO Charlie,DOM,BSB,Baseball
+3,GUZMAN Jeison,DOM,BSB,Baseball
+3,MEJIA Erick,DOM,BSB,Baseball
+3,REYES Denyi,DOM,BSB,Baseball
+3,BAUTISTA Jose,DOM,BSB,Baseball
+3,BONIFACIO Emilio,DOM,BSB,Baseball
+3,DIAZ Jose,DOM,BSB,Baseball
+3,FRANCISCO Juan,DOM,BSB,Baseball
+1,MCGEE Javale,USA,BKB,Men
+1,MIDDLETON Khris,USA,BKB,Men
+1,TATUM Jayson,USA,BKB,Men
+1,DURANT Kevin,USA,BKB,Men
+1,BOOKER Devin,USA,BKB,Men
+1,GREEN Draymond,USA,BKB,Men
+1,LILLARD Damian,USA,BKB,Men
+1,GRANT Jerami,USA,BKB,Men
+1,LAVINE Zach,USA,BKB,Men
+1,HOLIDAY Jrue,USA,BKB,Men
+1,JOHNSON Keldon,USA,BKB,Men
+1,ADEBAYO Bam,USA,BKB,Men
+2,CORNELIE Petr,FRA,BKB,Men
+2,ALBICY Andrew,FRA,BKB,Men
+2,HEURTEL Thomas,FRA,BKB,Men
+2,NTILIKINA Frank,FRA,BKB,Men
+2,de COLO Nando,FRA,BKB,Men
+2,FOURNIER Evan,FRA,BKB,Men
+2,BATUM Nicolas,FRA,BKB,Men
+2,LUWAWU CABARROT Timothe,FRA,BKB,Men
+2,YABUSELE Guerschon,FRA,BKB,Men
+2,FALL Moustapha,FRA,BKB,Men
+2,GOBERT Rudy,FRA,BKB,Men
+2,POIRIER Vincent,FRA,BKB,Men
+3,GREEN Josh,AUS,BKB,Men
+3,BAYNES Aron,AUS,BKB,Men
+3,DELLAVEDOVA Matthew,AUS,BKB,Men
+3,EXUM Dante,AUS,BKB,Men
+3,GOULDING Chris,AUS,BKB,Men
+3,INGLES Joe,AUS,BKB,Men
+3,KAY Nic,AUS,BKB,Men
+3,LANDALE Jock,AUS,BKB,Men
+3,MILLS Patty,AUS,BKB,Men
+3,THYBULLE Matisse,AUS,BKB,Men
+3,REATH Duop Thomas,AUS,BKB,Men
+3,SOBEY Nathan,AUS,BKB,Men
+1,MOL Anders Berntsen,NOR,VBV,Men
+1,SORUM Christian Sandlie,NOR,VBV,Men
+2,KRASILNIKOV Viacheslav,ROC,VBV,Men
+2,STOYANOVSKIY Oleg,ROC,VBV,Men
+3,YOUNOUSSE Cherif,QAT,VBV,Men
+3,TIJAN Ahmed,QAT,VBV,Men
+1,YAFAI Galal,GBR,BOX,Men's Fly (48-52kg)
+2,PAALAM Carlo,PHI,BOX,Men's Fly (48-52kg)
+1,SOUSA Hebert,BRA,BOX,Men's Middle (69-75kg)
+2,KHYZHNIAK Oleksandr,UKR,BOX,Men's Middle (69-75kg)
+1,KRASTEVA Stoyka Zhelyazkova,BUL,BOX,Women's Fly (48-51kg)
+2,CAKIROGLU Buse Naz,TUR,BOX,Women's Fly (48-51kg)
+1,SURMENELI Busenaz,TUR,BOX,Women's Welter (64-69kg)
+2,GU Hong,CHN,BOX,Women's Welter (64-69kg)
+1,QUEIROZ dos SANTOS Isaquias,BRA,CSP,Men's Canoe Single 1000m
+2,LIU Hao,CHN,CSP,Men's Canoe Single 1000m
+3,TARNOVSCHI Serghei,MDA,CSP,Men's Canoe Single 1000m
+1,LEMKE Max,GER,CSP,Men's Kayak Four 500m
+1,LIEBSCHER Tom,GER,CSP,Men's Kayak Four 500m
+1,RAUHE Ronald,GER,CSP,Men's Kayak Four 500m
+1,RENDSCHMIDT Max,GER,CSP,Men's Kayak Four 500m
+2,AREVALO Carlos,ESP,CSP,Men's Kayak Four 500m
+2,CRAVIOTTO Saul,ESP,CSP,Men's Kayak Four 500m
+2,GERMADE Rodrigo,ESP,CSP,Men's Kayak Four 500m
+2,WALZ Marcus,ESP,CSP,Men's Kayak Four 500m
+3,BALAZ Samuel,SVK,CSP,Men's Kayak Four 500m
+3,BOTEK Adam,SVK,CSP,Men's Kayak Four 500m
+3,MYSAK Denis,SVK,CSP,Men's Kayak Four 500m
+3,VLCEK Erik,SVK,CSP,Men's Kayak Four 500m
+1,SUN Mengya,CHN,CSP,Women's Canoe Double 500m
+1,XU Shixiao,CHN,CSP,Women's Canoe Double 500m
+2,LUZAN Liudmyla,UKR,CSP,Women's Canoe Double 500m
+2,CHETVERIKOVA Anastasiia,UKR,CSP,Women's Canoe Double 500m
+3,VINCENT-LAPOINTE Laurence,CAN,CSP,Women's Canoe Double 500m
+3,VINCENT Katie,CAN,CSP,Women's Canoe Double 500m
+1,BODONYI Dora,HUN,CSP,Women's Kayak Four 500m
+1,KOZAK Danuta,HUN,CSP,Women's Kayak Four 500m
+1,CSIPES Tamara,HUN,CSP,Women's Kayak Four 500m
+1,KARASZ Anna,HUN,CSP,Women's Kayak Four 500m
+2,LITVINCHUK Maryna,BLR,CSP,Women's Kayak Four 500m
+2,MAKHNEVA Marharyta,BLR,CSP,Women's Kayak Four 500m
+2,PAPOK Nadzeya,BLR,CSP,Women's Kayak Four 500m
+2,KHUDZENKA Volha,BLR,CSP,Women's Kayak Four 500m
+3,NAJA Karolina,POL,CSP,Women's Kayak Four 500m
+3,PULAWSKA Anna,POL,CSP,Women's Kayak Four 500m
+3,ISKRZYCKA Justyna,POL,CSP,Women's Kayak Four 500m
+3,WISNIEWSKA Helena,POL,CSP,Women's Kayak Four 500m
+1,HANSEN Lasse Norman,DEN,CTR,Men's Madison
+1,MORKOV Michael,DEN,CTR,Men's Madison
+2,WALLS Matthew,GBR,CTR,Men's Madison
+2,HAYTER Ethan,GBR,CTR,Men's Madison
+3,GRONDIN Donavan,FRA,CTR,Men's Madison
+3,THOMAS Benjamin,FRA,CTR,Men's Madison
+1,CAO Yuan,CHN,DIV,Men's 10m Platform
+2,YANG Jian,CHN,DIV,Men's 10m Platform
+3,DALEY Thomas,GBR,DIV,Men's 10m Platform
+1,von ECKERMANN Henrik,SWE,EQU,Jumping Team
+1,BARYARD-JOHNSSON Malin,SWE,EQU,Jumping Team
+1,FREDRICSON Peder,SWE,EQU,Jumping Team
+2,SPRINGSTEEN Jessica,USA,EQU,Jumping Team
+2,KRAUT Laura,USA,EQU,Jumping Team
+2,WARD McLain,USA,EQU,Jumping Team
+3,DEVOS Pieter,BEL,EQU,Jumping Team
+3,GUERY Jerome,BEL,EQU,Jumping Team
+3,WATHELET Gregory,BEL,EQU,Jumping Team
+1,CLAUDINHO,BRA,FBL,Men
+1,SANTOS,BRA,FBL,Men
+1,ANTONY,BRA,FBL,Men
+1,ABNER,BRA,FBL,Men
+1,BRENNO,BRA,FBL,Men
+1,FUCHS Bruno,BRA,FBL,Men
+1,GUIMARAES Bruno,BRA,FBL,Men
+1,DOUGLAS LUIZ,BRA,FBL,Men
+1,ALVES Dani,BRA,FBL,Men
+1,DIEGO CARLOS,BRA,FBL,Men
+1,ARANA Guilherme,BRA,FBL,Men
+1,MENINO Gabriel,BRA,FBL,Men
+1,MARTINELLI Gabriel,BRA,FBL,Men
+1,LUCAO,BRA,FBL,Men
+1,CUNHA Matheus,BRA,FBL,Men
+1,NINO,BRA,FBL,Men
+1,MALCOM,BRA,FBL,Men
+1,MATHEUS HENRIQUE,BRA,FBL,Men
+1,PAULINHO,BRA,FBL,Men
+1,RICHARLISON,BRA,FBL,Men
+1,REINIER,BRA,FBL,Men
+1,GRACA Ricardo,BRA,FBL,Men
+2,ZUBIMENDI Martin,ESP,FBL,Men
+2,GIL Oscar,ESP,FBL,Men
+2,MINGUEZA Oscar,ESP,FBL,Men
+2,ASENSIO Marco,ESP,FBL,Men
+2,CEBALLOS Dani,ESP,FBL,Men
+2,CUCURELLA Marc,ESP,FBL,Men
+2,GIL Bryan,ESP,FBL,Men
+2,GONZALEZ Pedri,ESP,FBL,Men
+2,FERNANDEZ Alvaro,ESP,FBL,Men
+2,TORRES Pau,ESP,FBL,Men
+2,GARCIA Eric,ESP,FBL,Men
+2,MERINO Mikel,ESP,FBL,Men
+2,MIR Rafa,ESP,FBL,Men
+2,MIRANDA Juan,ESP,FBL,Men
+2,MONCAYOLA Jon,ESP,FBL,Men
+2,OLMO Dani,ESP,FBL,Men
+2,OYARZABAL Mikel,ESP,FBL,Men
+2,PUADO Javier,ESP,FBL,Men
+2,SIMON Unai,ESP,FBL,Men
+2,SOLER Carlos,ESP,FBL,Men
+2,VALLEJO Jesus,ESP,FBL,Men
+2,VILLAR Ivan,ESP,FBL,Men
+3,MARTIN Henry,MEX,FBL,Men
+3,MALAGON Luis,MEX,FBL,Men
+3,ANGULO Ricardo,MEX,FBL,Men
+3,BELTRAN Fernando,MEX,FBL,Men
+3,AGUIRRE Eduardo,MEX,FBL,Men
+3,AGUIRRE Erick,MEX,FBL,Men
+3,ALVARADO Roberto,MEX,FBL,Men
+3,ANGULO Jesus,MEX,FBL,Men
+3,ANTUNA Uriel,MEX,FBL,Men
+3,CORDOVA Sebastian,MEX,FBL,Men
+3,ESQUIVEL Joaquin,MEX,FBL,Men
+3,JURADO Sebastian,MEX,FBL,Men
+3,LAINEZ Diego,MEX,FBL,Men
+3,LORONA Vladimir,MEX,FBL,Men
+3,MONTES Cesar,MEX,FBL,Men
+3,MORA Adrian,MEX,FBL,Men
+3,OCHOA Guillermo,MEX,FBL,Men
+3,RODRIGUEZ Carlos,MEX,FBL,Men
+3,ROMO Luis,MEX,FBL,Men
+3,SANCHEZ Jorge,MEX,FBL,Men
+3,VASQUEZ Johan,MEX,FBL,Men
+3,VEGA Alexis,MEX,FBL,Men
+1,KORDA Nelly,USA,GLF,Women's Individual Stroke Play
+2,INAMI Mone,JPN,GLF,Women's Individual Stroke Play
+3,KO Lydia,NZL,GLF,Women's Individual Stroke Play
+1,ABALO Luc,FRA,HBL,Men
+1,DESCAT Hugo,FRA,HBL,Men
+1,FABREGAS Ludovic,FRA,HBL,Men
+1,GENTY Yann,FRA,HBL,Men
+1,GERARD Vincent,FRA,HBL,Men
+1,GUIGOU Michael,FRA,HBL,Men
+1,KARABATIC Nikola,FRA,HBL,Men
+1,KARABATIC Luka,FRA,HBL,Men
+1,LAGARDE Romain,FRA,HBL,Men
+1,MAHE Kentin,FRA,HBL,Men
+1,MEM Dika,FRA,HBL,Men
+1,NGUESSAN Timothey,FRA,HBL,Men
+1,PORTE Valentin,FRA,HBL,Men
+1,REMILI Nedim,FRA,HBL,Men
+1,RICHARDSON Melvyn,FRA,HBL,Men
+1,TOURNAT Nicolas,FRA,HBL,Men
+2,ANDERSSON Lasse,DEN,HBL,Men
+2,GIDSEL Mathias,DEN,HBL,Men
+2,HANSEN Johan,DEN,HBL,Men
+2,HOLM Jacob,DEN,HBL,Men
+2,JAKOBSEN Emil,DEN,HBL,Men
+2,LANDIN Magnus,DEN,HBL,Men
+2,LANDIN Niklas,DEN,HBL,Men
+2,MENSAH Mads,DEN,HBL,Men
+2,MOELLGAARD Henrik,DEN,HBL,Men
+2,OLSEN Morten,DEN,HBL,Men
+2,SAUGSTRUP Magnus,DEN,HBL,Men
+2,SVAN Lasse,DEN,HBL,Men
+2,TOFT HANSEN Henrik,DEN,HBL,Men
+2,HANSEN Mikkel,DEN,HBL,Men
+2,MOELLER Kevin,DEN,HBL,Men
+3,GARCIA ROBLEDO Antonio,ESP,HBL,Men
+3,GOMEZ ABELLO Aleix,ESP,HBL,Men
+3,CORRALES RODAL Rodrigo,ESP,HBL,Men
+3,MAQUEDA PENO Jorge,ESP,HBL,Men
+3,SOLE SALA Ferran,ESP,HBL,Men
+3,PEREZ de VARGAS MORENO Gonzalo,ESP,HBL,Men
+3,DUJSHEBAEV DOVICHEBAEVA Alex,ESP,HBL,Men
+3,FIGUERAS TREJO Adrian,ESP,HBL,Men
+3,MORROS de ARGILA Viran,ESP,HBL,Men
+3,ENTRERRIOS RODRIGUEZ Raul,ESP,HBL,Men
+3,GURBINDO MARTINEZ Eduardo,ESP,HBL,Men
+3,SARMIENTO MELIAN Daniel,ESP,HBL,Men
+3,SANCHEZ-MIGALLON NARANJO Miguel,ESP,HBL,Men
+3,FERNANDEZ PEREZ Angel,ESP,HBL,Men
+3,AGUINAGALDE AQUIZU Julen,ESP,HBL,Men
+3,GUARDIOLA VILLAPLANA Gedeon,ESP,HBL,Men
+1,GANJZADEH Sajad,IRI,KTE,Men's Kumite +75kg
+2,HAMEDI Tareg,KSA,KTE,Men's Kumite +75kg
+3,ARAGA Ryutaro,JPN,KTE,Men's Kumite +75kg
+3,AKTAS Ugur,TUR,KTE,Men's Kumite +75kg
+1,ABDELAZIZ Feryal,EGY,KTE,Women's Kumite +61kg
+2,ZARETSKA Iryna,AZE,KTE,Women's Kumite +61kg
+3,GONG Li,CHN,KTE,Women's Kumite +61kg
+3,BERULTSEVA Sofya,KAZ,KTE,Women's Kumite +61kg
+1,CHOONG Joseph,GBR,MPN,Men's Individual
+2,ELGENDY Ahmed,EGY,MPN,Men's Individual
+3,JUN Woongtae,KOR,MPN,Men's Individual
+1,ASHRAM Linoy,ISR,GRY,Individual All-Around
+2,AVERINA Dina,ROC,GRY,Individual All-Around
+3,HARNASKO Alina,BLR,GRY,Individual All-Around
+1,le GOFF Nicolas,FRA,VVO,Men
+1,CHINENYEZE Barthelemy,FRA,VVO,Men
+1,BOYER Stephen,FRA,VVO,Men
+1,BRIZARD Antoine,FRA,VVO,Men
+1,BULTOR Daryl,FRA,VVO,Men
+1,CLEVENOT Trevor,FRA,VVO,Men
+1,GREBENNIKOV Jenia,FRA,VVO,Men
+1,LOUATI Yacine,FRA,VVO,Men
+1,NGAPETH Earvin,FRA,VVO,Men
+1,PATRY Jean,FRA,VVO,Men
+1,TILLIE Kevin,FRA,VVO,Men
+1,TONIUTTI Benjamin,FRA,VVO,Men
+2,KOBZAR Igor,ROC,VVO,Men
+2,PANKOV Pavel,ROC,VVO,Men
+2,VOLVICH Artem,ROC,VVO,Men
+2,KURKAEV Ilyas,ROC,VVO,Men
+2,IAKOVLEV Ivan,ROC,VVO,Men
+2,KLIUKA Egor,ROC,VVO,Men
+2,VOLKOV Dmitry,ROC,VVO,Men
+2,PODLESNYKH Yaroslav,ROC,VVO,Men
+2,BOGDAN Denis,ROC,VVO,Men
+2,MIKHAYLOV Maxim,ROC,VVO,Men
+2,POLETAEV Victor,ROC,VVO,Men
+2,GOLUBEV Valentin,ROC,VVO,Men
+3,de CECCO Luciano,ARG,VVO,Men
+3,SANCHEZ Matias,ARG,VVO,Men
+3,SOLE Sebastian,ARG,VVO,Men
+3,RAMOS Martin,ARG,VVO,Men
+3,LOSER Agustin,ARG,VVO,Men
+3,PEREYRA Federico,ARG,VVO,Men
+3,LIMA Bruno,ARG,VVO,Men
+3,CONTE Facundo,ARG,VVO,Men
+3,POGLAJEN Cristian,ARG,VVO,Men
+3,PALACIOS Ezequiel,ARG,VVO,Men
+3,MENDEZ Nicolas,ARG,VVO,Men
+3,DANANI Santiago,ARG,VVO,Men
+1,FISCHER Aria,USA,WPO,Women
+1,JOHNSON Ashleigh,USA,WPO,Women
+1,LONGAN Amanda,USA,WPO,Women
+1,WILLIAMS Alys,USA,WPO,Women
+1,NEUSHUL Jamie,USA,WPO,Women
+1,GILCHRIST Kaleigh,USA,WPO,Women
+1,FISCHER Makenzie,USA,WPO,Women
+1,MUSSELMAN Madeline,USA,WPO,Women
+1,SEIDEMANN Melissa,USA,WPO,Women
+1,STEFFENS Margaret,USA,WPO,Women
+1,HAUSCHILD Paige,USA,WPO,Women
+1,FATTAL Rachel,USA,WPO,Women
+1,HARALABIDIS Stephanie,USA,WPO,Women
+2,BACH Marta,ESP,WPO,Women
+2,ESPAR LLAQUET Anna,ESP,WPO,Women
+2,ESPAR LLAQUET Clara,ESP,WPO,Women
+2,ESTER RAMOS Laura,ESP,WPO,Women
+2,FORCA ARIZA Judith,ESP,WPO,Women
+2,GARCIA GODOY Maica,ESP,WPO,Women
+2,GONZALEZ LOPEZ Irene,ESP,WPO,Women
+2,LEITON ARRONES Paula,ESP,WPO,Women
+2,ORTIZ Bea,ESP,WPO,Women
+2,PENA Pili,ESP,WPO,Women
+2,SANCHEZ GONZALEZ Maria Elena,ESP,WPO,Women
+2,TARRAGO AYMERICH Roser,ESP,WPO,Women
+2,RUIZ Elena,ESP,WPO,Women
+3,GANGL Edina,HUN,WPO,Women
+3,GARDA Krisztina,HUN,WPO,Women
+3,GURISATTI Greta,HUN,WPO,Women
+3,GYONGYOSSY Aniko,HUN,WPO,Women
+3,ILLES Anna,HUN,WPO,Women
+3,KESZTHELYI Rita,HUN,WPO,Women
+3,LEIMETER Dora,HUN,WPO,Women
+3,MAGYARI Alda,HUN,WPO,Women
+3,PARKES Rebecca,HUN,WPO,Women
+3,RYBANSKA Natasa,HUN,WPO,Women
+3,SZILAGYI Dorottya,HUN,WPO,Women
+3,SZUCS Gabriella,HUN,WPO,Women
+3,VALYI Vanda,HUN,WPO,Women
+1,OTOGURO Takuto,JPN,WRE,Men's Freestyle 65kg
+2,ALIYEV Haji,AZE,WRE,Men's Freestyle 65kg
+3,RASHIDOV Gadzhimurad,ROC,WRE,Men's Freestyle 65kg
+3,BAJRANG Bajrang,IND,WRE,Men's Freestyle 65kg
+1,SADULAEV Abdulrashid,ROC,WRE,Men's Freestyle 97kg
+2,SNYDER Kyle Frederick,USA,WRE,Men's Freestyle 97kg
+3,SALAS PEREZ Reineris,CUB,WRE,Men's Freestyle 97kg
+3,CONYEDO RUANO Abraham de Jesus,ITA,WRE,Men's Freestyle 97kg
+1,SUSAKI Yui,JPN,WRE,Women's Freestyle 50kg
+2,SUN Yanan,CHN,WRE,Women's Freestyle 50kg
+3,STADNIK Mariya,AZE,WRE,Women's Freestyle 50kg
+3,HILDEBRANDT Sarah Ann,USA,WRE,Women's Freestyle 50kg
+1,KIPCHOGE Eliud,KEN,ATH,Men's Marathon
+2,NAGEEYE Abdi,NED,ATH,Men's Marathon
+3,ABDI Bashir,BEL,ATH,Men's Marathon
+1,ATKINS Ariel,USA,BKB,Women
+1,WILSON A'ja,USA,BKB,Women
+1,GRINER Brittney,USA,BKB,Women
+1,STEWART Breanna,USA,BKB,Women
+1,GRAY Chelsea,USA,BKB,Women
+1,LOYD Jewell,USA,BKB,Women
+1,TAURASI Diana,USA,BKB,Women
+1,BIRD Sue,USA,BKB,Women
+1,DIGGINS Skylar,USA,BKB,Women
+1,FOWLES Sylvia,USA,BKB,Women
+1,CHARLES Tina,USA,BKB,Women
+1,COLLIER Napheesa,USA,BKB,Women
+2,MIYOSHI Naho,JPN,BKB,Women
+2,TAKADA Maki,JPN,BKB,Women
+2,MACHIDA Rui,JPN,BKB,Women
+2,MIYAZAWA Yuki,JPN,BKB,Women
+2,MOTOHASHI Nako,JPN,BKB,Women
+2,NAGAOKA Moeko,JPN,BKB,Women
+2,HAYASHI Saki,JPN,BKB,Women
+2,MAWULI Evelyn,JPN,BKB,Women
+2,MIYAZAKI Saori,JPN,BKB,Women
+2,AKAHO Himawari,JPN,BKB,Women
+2,OKOYE Monica,JPN,BKB,Women
+2,TODO Nanako,JPN,BKB,Women
+3,FAUTHOUX Marine,FRA,BKB,Women
+3,DUCHET Alix,FRA,BKB,Women
+3,JOHANNES Marine,FRA,BKB,Women
+3,MICHEL Sarah,FRA,BKB,Women
+3,VUKOSAVLJEVIC Valeriane,FRA,BKB,Women
+3,TCHATCHOUANG Diandra,FRA,BKB,Women
+3,MIYEM Endene,FRA,BKB,Women
+3,CHARTEREAU Alexia,FRA,BKB,Women
+3,GRUDA Sandrine,FRA,BKB,Women
+3,RUPERT Iliana,FRA,BKB,Women
+3,CIAK Helena,FRA,BKB,Women
+3,WILLIAMS Gabby,FRA,BKB,Women
+1,CRUZ Andy,CUB,BOX,Men's Light (57-63kg)
+2,DAVIS Keyshawn,USA,BOX,Men's Light (57-63kg)
+1,JALOLOV Bakhodir,UZB,BOX,Men's Super Heavy (+91kg)
+2,TORREZ JR Richard,USA,BOX,Men's Super Heavy (+91kg)
+1,HARRINGTON Kellie Anne,IRL,BOX,Women's Light (57-60kg)
+2,FERREIRA Beatriz,BRA,BOX,Women's Light (57-60kg)
+1,PRICE Lauren,GBR,BOX,Women's Middle (69-75kg)
+2,LI Qian,CHN,BOX,Women's Middle (69-75kg)
+1,KENNY Jason,GBR,CTR,Men's Keirin
+2,AWANG Mohd Azizulhasni,MAS,CTR,Men's Keirin
+3,LAVREYSEN Harrie,NED,CTR,Men's Keirin
+1,VALENTE Jennifer,USA,CTR,Women's Omnium
+2,KAJIHARA Yumi,JPN,CTR,Women's Omnium
+3,WILD Kirsten,NED,CTR,Women's Omnium
+1,MITCHELL Kelsey,CAN,CTR,Women's Sprint
+2,STARIKOVA Olena,UKR,CTR,Women's Sprint
+3,LEE Wai Sze,HKG,CTR,Women's Sprint
+1,EDWIGE Beatrice,FRA,HBL,Women
+1,NZE MINKO Estelle,FRA,HBL,Women
+1,LEYNAUD Amandine,FRA,HBL,Women
+1,DARLEUX Cleopatre,FRA,HBL,Women
+1,LASSOURCE Coralie,FRA,HBL,Women
+1,VALENTINI Chloe,FRA,HBL,Women
+1,FOPPA Pauletta,FRA,HBL,Women
+1,LACRABERE Alexandra,FRA,HBL,Women
+1,SERCIEN UGOLIN Oceane,FRA,HBL,Women
+1,COATANEA Pauline,FRA,HBL,Women
+1,FLIPPES Laura,FRA,HBL,Women
+1,DANCETTE Blandine,FRA,HBL,Women
+1,ZAADI DEUNA Grace,FRA,HBL,Women
+1,NOCANDY Meline,FRA,HBL,Women
+1,PINEAU Allison,FRA,HBL,Women
+1,NIAKATE Kalidiatou,FRA,HBL,Women
+2,BOBROVNIKOVA Vladlena,ROC,HBL,Women
+2,VEDEKHINA Polina,ROC,HBL,Women
+2,VYAKHIREVA Anna,ROC,HBL,Women
+2,GORSHKOVA Polina,ROC,HBL,Women
+2,DMITRIEVA Daria,ROC,HBL,Women
+2,ILINA Ekaterina,ROC,HBL,Women
+2,KALININA Viktoriia,ROC,HBL,Women
+2,KUZNETSOVA Polina,ROC,HBL,Women
+2,MAKEEVA Kseniia,ROC,HBL,Women
+2,MANAGAROVA Iuliia,ROC,HBL,Women
+2,MIKHAYLICHENKO Elena,ROC,HBL,Women
+2,SEDOYKINA Anna,ROC,HBL,Women
+2,SEN Anna,ROC,HBL,Women
+2,SKOROBOGATCHENKO Antonina,ROC,HBL,Women
+2,FOMINA Olga,ROC,HBL,Women
+3,TOMAC Marta,NOR,HBL,Women
+3,JACOBSEN Marit,NOR,HBL,Women
+3,MOERK Nora,NOR,HBL,Women
+3,REISTAD Henny,NOR,HBL,Women
+3,KRISTIANSEN Veronica,NOR,HBL,Women
+3,SKOGRAND Stine,NOR,HBL,Women
+3,LUNDE Katrine,NOR,HBL,Women
+3,JOHANSEN Vilde Ingeborg,NOR,HBL,Women
+3,BREISTOEL Kristine,NOR,HBL,Women
+3,FRAFJORD Marit Malm,NOR,HBL,Women
+3,BRATTSET DALE Kari,NOR,HBL,Women
+3,BREDAL OFTEDAL Stine,NOR,HBL,Women
+3,SOLBERG ISAKSEN Sanna,NOR,HBL,Women
+3,HERREM Camilla,NOR,HBL,Women
+3,SOLBERG Silje,NOR,HBL,Women
+1,DYANKOVA Simona,BUL,GRY,Group All-Around
+1,RADUKANOVA Madlen,BUL,GRY,Group All-Around
+1,KIRYAKOVA Stefani,BUL,GRY,Group All-Around
+1,ZAFIROVA Erika,BUL,GRY,Group All-Around
+1,TRAETS Laura,BUL,GRY,Group All-Around
+2,BLIZNYUK Anastasia,ROC,GRY,Group All-Around
+2,SHKATOVA Angelina,ROC,GRY,Group All-Around
+2,TISHCHENKO Alisa,ROC,GRY,Group All-Around
+2,MAKSIMOVA Anastasiia,ROC,GRY,Group All-Around
+2,TATAREVA Anastasiia,ROC,GRY,Group All-Around
+3,MAURELLI Alessia,ITA,GRY,Group All-Around
+3,CENTOFANTI Martina,ITA,GRY,Group All-Around
+3,SANTANDREA Martina,ITA,GRY,Group All-Around
+3,DURANTI Agnese,ITA,GRY,Group All-Around
+3,MOGUREAN Daniela,ITA,GRY,Group All-Around
+1,DREWS Andrea,USA,VVO,Women
+1,OGBOGU Chiaka,USA,VVO,Women
+1,AKINRADEWO Foluke,USA,VVO,Women
+1,WASHINGTON Haleigh,USA,VVO,Women
+1,LARSON Jordan,USA,VVO,Women
+1,WONG-ORANTES Justine,USA,VVO,Women
+1,HILL Kimberly,USA,VVO,Women
+1,ROBINSON Kelsey,USA,VVO,Women
+1,BARTSCH-HACKLEY Michelle,USA,VVO,Women
+1,HANCOCK Micha,USA,VVO,Women
+1,POULTER Jordyn,USA,VVO,Women
+1,THOMPSON Jordan,USA,VVO,Women
+2,CORREA Ana Beatriz,BRA,VVO,Women
+2,da SILVA Ana Carolina,BRA,VVO,Women
+2,MENEZES OLIVEIRA de SOUZA Ana Cris.,BRA,VVO,Women
+2,BRAIT Camila,BRA,VVO,Women
+2,de OLIVEIRA SAAD GATTAZ Caroline,BRA,VVO,Women
+2,RODRIGUES Fernanda,BRA,VVO,Women
+2,BRAGA GUIMARAES Gabriela,BRA,VVO,Women
+2,SILVA CARNEIRO Macris Fernanda,BRA,VVO,Women
+2,PEREIRA Natalia,BRA,VVO,Women
+2,MONTIBELLER Rosamaria,BRA,VVO,Women
+2,RATZKE Roberta Silva,BRA,VVO,Women
+2,CAIXETA Tandara,BRA,VVO,Women
+3,BJELICA Ana,SRB,VVO,Women
+3,BUSA Bianka,SRB,VVO,Women
+3,MILENKOVIC Bojana,SRB,VVO,Women
+3,MIHAJLOVIC Brankica,SRB,VVO,Women
+3,BLAGOJEVIC Jelena,SRB,VVO,Women
+3,ALEKSIC Maja,SRB,VVO,Women
+3,OGNJENOVIC Maja,SRB,VVO,Women
+3,RASIC Milena,SRB,VVO,Women
+3,POPOVIC Mina,SRB,VVO,Women
+3,POPOVIC Silvija,SRB,VVO,Women
+3,MIRKOVIC Sladjana,SRB,VVO,Women
+3,BOSKOVIC Tijana,SRB,VVO,Women
+1,ALEKSIC Milan,SRB,WPO,Men
+1,DEDOVIC Nikola,SRB,WPO,Men
+1,FILIPOVIC Filip,SRB,WPO,Men
+1,JAKSIC Nikola,SRB,WPO,Men
+1,LAZIC Dorde,SRB,WPO,Men
+1,MANDIC Dusan,SRB,WPO,Men
+1,MITROVIC Branislav,SRB,WPO,Men
+1,MITROVIC Stefan,SRB,WPO,Men
+1,PIJETLOVIC Dusko,SRB,WPO,Men
+1,PIJETLOVIC Gojko,SRB,WPO,Men
+1,PRLAINOVIC Andrija,SRB,WPO,Men
+1,RANDELOVIC Sava,SRB,WPO,Men
+1,RASOVIC Strahinja,SRB,WPO,Men
+2,ARGYROPOULOS KANAKAKIS Stylianos,GRE,WPO,Men
+2,DERVISIS Georgios,GRE,WPO,Men
+2,FOUNTOULIS Ioannis,GRE,WPO,Men
+2,GALANIDIS Konstantinos,GRE,WPO,Men
+2,GENIDOUNIAS Konstantinos,GRE,WPO,Men
+2,KAPOTSIS Marios,GRE,WPO,Men
+2,KOLOMVOS Christodoulos,GRE,WPO,Men
+2,MOURIKIS Konstantinos,GRE,WPO,Men
+2,PAPANASTASIOU Alexandros,GRE,WPO,Men
+2,SKOUMPAKIS Dimitrios,GRE,WPO,Men
+2,VLACHOPOULOS Angelos,GRE,WPO,Men
+2,ZERDEVAS Emmanouil,GRE,WPO,Men
+2,GKIOUVETSIS Konstantinos,GRE,WPO,Men
+3,PASZTOR Matyas,HUN,WPO,Men
+3,ANGYAL Daniel,HUN,WPO,Men
+3,ERDELYI Balazs,HUN,WPO,Men
+3,HARAI Balazs,HUN,WPO,Men
+3,HOSNYANSZKY Norbert,HUN,WPO,Men
+3,JANSIK Szilard,HUN,WPO,Men
+3,MANHERCZ Krisztian,HUN,WPO,Men
+3,MEZEI Tamas,HUN,WPO,Men
+3,NAGY Viktor,HUN,WPO,Men
+3,VAMOS Marton,HUN,WPO,Men
+3,VARGA Denes,HUN,WPO,Men
+3,VOGEL Soma,HUN,WPO,Men
+3,ZALANKI Gergo,HUN,WPO,Men
