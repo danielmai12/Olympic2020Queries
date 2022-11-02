@@ -15,3 +15,5 @@ Member: Daniel Mai, Axel Le, Hien Nguyen
     - Write report.
 
 - This project is a project for comp3380: Databases Concepts and Usage
+
+- To run the project: Hit make the the src folder
